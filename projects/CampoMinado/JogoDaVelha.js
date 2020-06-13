@@ -244,8 +244,8 @@ function main() {
     button1.firstChild.data = 'Recomeçar';
     button1.onclick = restart;
 
-    g = new Game('canvas1', 'score1', 4, 4);
-    g.putBomb(1);
+    g = new Game('canvas1', 'score1', 15, 15);
+    g.putBomb(15);
     g.draw();
 }
 
