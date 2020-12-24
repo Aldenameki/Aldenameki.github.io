@@ -1,0 +1,75 @@
+.header {
+    width: 100vw;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0px;
+    border: 1px solid #d8d8d8;
+    background-color: #ffffff;
+}
+
+.headerContent {
+    width: 100vw;
+    max-width: 935px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    display: flex;
+    white-space: nowrap;
+    justify-content: space-between;
+}
+
+.headerContent * {
+    vertical-align: middle;
+    display: inline;
+}
+
+#logo {
+    height: 28px;
+    width: auto;
+    margin-top: 3px;
+}
+
+#search {
+    width: 215px;
+    height: 22px;
+    border: 1px solid #d8d8d8;
+    background-color: #fafafa;
+    text-align: center;
+}
+
+#menu {
+    height: 22px;
+    width: auto;
+}
+
+.icon {
+    width: 22px;
+    height: 22px;
+    overflow: hidden;
+    display: inline-block;
+    margin-left: 22px;
+}
+
+#home {
+    width: auto;
+    height: 22px;
+}
+
+#inbox {
+    width: auto;
+    height: 22px;
+    margin: 0px 0 0 -22px;
+}
+
+#explore {
+    width: auto;
+    height: 22px;
+    margin: 0px 0 0 -44px;
+}
+
+#activity {
+    width: auto;
+    height: 22px;
+    margin: 0px 0 0 -66px;
+}

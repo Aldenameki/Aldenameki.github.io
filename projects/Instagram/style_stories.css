@@ -1,0 +1,43 @@
+body {
+    margin: 0px;
+    background-color: #fafafa;
+}
+
+.page {
+    width: 100%;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.stories {
+    height: 100px;
+    width: auto;
+    border: 1px solid #d8d8d8;
+    background-color: #ffffff;
+    display: flex;
+    overflow: hidden;
+}
+
+.storie {
+    vertical-align: bottom;
+    margin-left: 16px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.storie_image {
+    height: 56px;
+    border-radius: 50%;
+    border: 2px solid #ff0040;
+}
+
+.storie_name {
+    width: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 12px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
