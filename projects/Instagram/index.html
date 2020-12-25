@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Instragram</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="style_header.css">
+        <link rel="stylesheet" href="style_stories.css">
+        <link rel="stylesheet" href="style_feed.css">
+        <script type="text/javascript" src="logic.js"></script>
+    </head>
+    <body>
+        <div class="header">
+            <div style="margin: 12px;">
+                <div class="headerContent">
+                    <img id="logo" src="InstagramLogo.png">
+                    <input id="search" type="text" placeholder="Pesquisar">
+                    <div id="menu">
+                        <div class="icon">
+                            <img id="home" src="icones.png">
+                        </div>
+                        <div class="icon">
+                            <img id="inbox" src="icones.png">
+                        </div>
+                        <div class="icon">
+                            <img id="explore" src="icones.png">
+                        </div>
+                        <div class="icon">
+                            <img id="activity" src="icones.png">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br>
+        <div class="page">
+            <div id="stories" class="stories">
+                
+            </div>
+            <div id="feed">
+                <div id="p123" class="post">
+                    <div class="post_header">
+                        <div class="post_header2">
+                            <img class="post_user_image" src="foto5.jpg" alt="User Photo">
+                            <h1 class="post_user_name">dogzin</h1>
+                            <img class="post_option" src="more.png" alt="Options">
+                        </div>
+                    </div>
+                    <img class="post_image" src="foto5.jpg" alt="Image">
+                    <div class="post_description">
+                        <div class="post_actions">
+                            <div class="action_icon">
+                                <img class="post_actions_like" src="icones2.png" alt="Like">
+                            </div>
+                            <div class="action_icon">
+                                <img class="post_actions_comment" src="icones2.png" alt="Comment">
+                            </div>
+                            <div class="action_icon">
+                                <img class="post_actions_share" src="icones2.png" alt="Share">
+                            </div>
+                            <div id="post_action_save" class="action_icon">
+                                <img class="post_actions_save" src="icones2.png" alt="Save">
+                            </div>
+                        </div>
+                        <div class="post_description_likes">
+                            Likes
+                        </div>
+                        <div class="post_comments">
+                            Comments
+                        </div>
+                    </div>
+                    <div class="post_comment">
+                        <input id="input_comment" type="text" placeholder="Adicione um comentário...">
+                        <button id="send_comment" type="button">Publicar</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

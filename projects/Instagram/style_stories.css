@@ -1,15 +1,3 @@
-body {
-    margin: 0px;
-    background-color: #fafafa;
-}
-
-.page {
-    width: 100%;
-    max-width: 600px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
 .stories {
     height: 100px;
     width: auto;

@@ -1,0 +1,136 @@
+.post {
+    height: auto;
+    width: auto;
+    border: 1px solid #d8d8d8;
+    background-color: #ffffff;
+    margin-top: 25px;
+}
+
+.post_header {
+    height: 60px;
+    display: flex;
+}
+
+.post_header2 {
+    width: 100%;
+    padding: 14px;
+    display: flex;
+}
+
+.post_user_image {
+    height: 100%;
+    border-radius: 50%;
+    border: 2px solid #ff0040;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.post_user_name {
+    font-size: 12px;
+    display: inline;
+    margin-left: 14px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.post_option {
+    height: 15px;
+    width: 15px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.post_image {
+    height: auto;
+    width: 100%;
+}
+
+.post_actions {
+    height: 24px;
+    width: auto;
+    padding-bottom: 8px;
+    display: flex;
+}
+
+.post_actions * {
+    height: 24px;
+    width: 24px;
+    display: inline;
+}
+
+.action_icon {
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.post_actions_like {
+    width: auto;
+    height: 24px;
+}
+
+.post_actions_comment {
+    width: auto;
+    height: 24px;
+    margin: 0 0 0 -48px;
+}
+
+.post_actions_share {
+    width: auto;
+    height: 24px;
+    margin: 0 0 0 -72px;
+}
+
+#post_action_save {
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.post_actions_save {
+    width: auto;
+    height: 24px;
+    margin: 0 0 0 -120px;
+}
+
+.post_description {
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    
+}
+
+.post_comment {
+    height: 55px;
+    width: auto;
+    border-top: 1px solid #d8d8d8;
+    background-color: #ffffff;
+    display: flex;
+}
+
+#input_comment {
+    height: 18px;
+    width: auto;
+    display: inline;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 16px;
+    border: 0;
+}
+
+#send_comment {
+    height: 18px;
+    width: auto;
+    display: inline;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: 16px;
+    color: #006eff;
+    border: 0;
+    background-color: #ffffff;
+}
