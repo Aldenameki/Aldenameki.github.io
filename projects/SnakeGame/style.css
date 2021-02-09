@@ -1,0 +1,21 @@
+body {
+    background-color: #294e42;
+}
+
+#game {
+    height: fit-content;
+    width: fit-content;
+    margin: auto;
+}
+
+#scoreboard1 {
+    color: #c0ff00;
+}
+
+#canvas1 {
+    height: 80vh;
+    width: 80vh;
+    max-height: 80vw;
+    max-width: 80vw;
+    border: 1px solid #000000;;
+}
