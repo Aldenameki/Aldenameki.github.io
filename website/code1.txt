@@ -1,0 +1,1060 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <html xmlns="https://www.w3.org/1999/xhtml" xmlns:og="https://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+    <head>
+        <title>KaBuM! - Explosão de Preços Baixos!</title>
+        <script src="//tag.goadopt.io/injector.js?website_code=e5478411-b330-4cee-ad58-a9d440f95510" class="adopt-injector"></script>
+        <script>window.adoptHideAfterConsent = true;</script>
+        
+        <meta property='og:title' content=''/>
+        <meta property='og:type' content='product'/>
+        <meta property='og:description' content=''/>
+        <meta property='og:url' content='https://www.kabum.com.br'/>
+        <meta property='og:site_name' content='KaBuM!'/>
+        <meta property='og:image' content='' /><meta property='og:image:type' content='image/png'>
+      
+        
+        <meta name='twitter:card' content='summary' />
+        <meta name='twitter:site' content='@kabumcombr' />
+        <meta name='twitter:title' content='' />
+        <meta name='twitter:description' content='' />
+        <meta name='twitter:image' content='' />
+      
+        
+        <meta http-equiv="Content-Type" content="text/html" />
+        <meta name="language" content="pt-br" />
+        <meta name="resource-type" content="document" />
+        <meta http-equiv="pragma" content="no-cache" />
+        <meta name="revisit-after" content="1" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="author" content="KaBuM!" />
+        <meta name="title" content="KaBuM! - Explosão de ofertas de Informática, Eletrônicos... Confira!" />
+        <meta name="description" content='Encontre as melhores ofertas aqui no KaBuM! Confira nossa linha de Computadores, Eletrônicos, Celulares, Notebooks, Tablets, Câmeras Digitais e mais. Compre Já!' />
+        <meta name="keywords" content="kabum, kabum loja, loja online, kabum referencias, kabum opinioes, kabum alguem ja comprou, kabum é boa, kabum seguro, kabum é confiavel, kabum.com.br, www.kabum.com.br, informatica, loja on-line, hardware" />
+        <meta name="msvalidate.01" content="7869C68B5FA3025DA1BC53D472E4E66F" />
+        
+        <link rel="canonical" href="https://www.kabum.com.br" />        
+        <link rel="alternate" href="https://www.kabum.com.br" hreflang="x-default" />
+        <link rel="alternate" href="https://www.kabum.com.br" hreflang="pt-br" /> 
+        <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.kabum.com.br" />
+        <!-- Styles -->
+        <link rel="stylesheet" type="text/css" href="https://static.kabum.com.br/conteudo/temas/001/css/style.min.css" />
+        <!-- Bibliotecas -->
+        <script type="text/javascript">
+            var PATH = "https://static.kabum.com.br/conteudo";
+            var SITE_URL ="https://www.kabum.com.br";
+            var UNIX_DOMINIO = "kabum.com.br";
+            var SITE_MOBILE = "https://m.kabum.com.br";
+            var SSITE_URL = "https://kabum.com.br";
+            var MS_GE_URL = "https://services.prod.api.aws.grupokabum.com.br/garantia-estendida";
+            var MS_GE_URL_PUB = "https://servicespub.prod.api.aws.grupokabum.com.br/garantia-estendida";
+        </script>
+        <script type="text/javascript" src="https://static.kabum.com.br/conteudo/scripts/jquery-3.5.0.min.js"></script>
+        
+
+        
+        
+      <style type="text/css">
+      body { background-repeat: repeat-x; background-color: #02347D; }
+      #img_fundo { background:url(https://static.kabum.com.br/conteudo/layout/1619/bg.jpg) center top no-repeat; }
+      </style>
+       
+      <style type="text/css">
+      body { background-repeat: repeat-x; background-color: #250200; }
+      #img_fundo.ec-internal-promotion { background:url(https://themes.kabum.com.br/conteudo/layout/1743/bg.jpg?int_banner_name=THEME%20UPGRADE%20PC%20JUNHO%202021&int_banner_position=tematizacao_listagem) center top no-repeat; }
+      </style>
+      
+        
+	  <script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-2140951-1']);
+	  _gaq.push(['_setDomainName', 'kabum.com.br']);
+	  _gaq.push(['_setAllowLinker', true]);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	 </script>
+  
+        <script type="text/javascript">
+            // Function xmlhttpPost
+            function xmlhttpPost(strURL, lugar) {
+                var xmlHttpReq = false;
+                var self = this;
+                // Mozilla/Safari
+                if (window.XMLHttpRequest) {
+                    self.xmlHttpReq = new XMLHttpRequest();
+                }
+                // IE
+                else if (window.ActiveXObject) {
+                    self.xmlHttpReq = new ActiveXObject("Microsoft.XMLHTTP");
+                }
+                self.xmlHttpReq.open('POST', strURL, true);
+                self.xmlHttpReq.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+                self.xmlHttpReq.onreadystatechange = function() {
+                  if (self.xmlHttpReq.readyState == 4) {
+                    updatepage(self.xmlHttpReq.responseText, lugar);
+                  }
+                }
+                self.xmlHttpReq.send(getquerystring());
+            }
+            function xmlhttpGet(strURL, lugar, search) {
+                var xmlHttpReq = false;
+                var self = this;
+                strURL = strURL + '?string=' + search
+                // Mozilla/Safari
+                if (window.XMLHttpRequest) {
+                    self.xmlHttpReq = new XMLHttpRequest();
+                }
+                // IE
+                else if (window.ActiveXObject) {
+                    self.xmlHttpReq = new ActiveXObject("Microsoft.XMLHTTP");
+                }
+                self.xmlHttpReq.open('GET', strURL, true);
+                self.xmlHttpReq.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+                self.xmlHttpReq.onreadystatechange = function() {
+                  if (self.xmlHttpReq.readyState == 4) {
+                    updatepage(self.xmlHttpReq.responseText, lugar);
+                  }
+                }
+                self.xmlHttpReq.send(getquerystring());
+            }
+        </script>
+        <script type="text/javascript" async="true">
+          let text = "Este e um recurso de navegador voltado para desenvolvedores. Se alguem disse para voce copiar e colar algo aqui para ativar um recurso ou 'invadir' a conta de outra pessoa, isso e uma fraude e voce dara a ele acesso a sua conta.";
+          console.log("%cESPERE!", "color: red; font-size: 35px; font-weight:bold;");
+          console.log("%c" + text, "color:#9c9c9c; font-weight: bold;font-size:18px;")
+        </script>
+    </head>
+  
+    
+        <script>
+          document.cookie = "goto=/cgi-local/site/listagem/listagem.cgi;path=/;domain=kabum.com.br";
+        </script>
+      
+        <body>
+        
+  <script>
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId      : '1719850761605142',
+        xfbml      : true,
+        version    : 'v2.6'
+      });
+    };
+    (function(d, s, id){
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) {return;}
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/pt_BR/sdk.js";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+  </script>
+
+        
+      <script>
+            dataLayer = [];
+            function setCookieKabum(cname, cvalue) {
+                document.cookie = cname + "=" + cvalue + ";path=/";
+            }
+            function getCookieKabum(cname) {
+                var name = cname + "=";
+                var decodedCookie = (document.cookie);
+                var ca = decodedCookie.split(';');
+                for(var i = 0; i <ca.length; i++) {
+                    var c = ca[i];
+                    while (c.charAt(0) == ' ') {
+                        c = c.substring(1);
+                    }
+                    if (c.indexOf(name) == 0) {
+                        return c.substring(name.length, c.length);
+                    }
+                }
+                return "";
+            }
+            function strip_tags(str) {
+                if(str != null){
+                    if(str.length > 0){
+                        return str.replace(/<\/?[^>]+>/gi, '');
+                    }
+                }
+            }
+            function findGetParameter(parameterName) {
+                var result = null,
+                    tmp = [];
+                location.search
+                    .substr(1)
+                    .split("&")
+                    .forEach(function (item) {
+                      tmp = item.split("=");
+                      if (tmp[0] === parameterName) result = decodeURIComponent(tmp[1]);
+                    });
+                return result;
+            }
+            $(function () {
+                var utm_source          = strip_tags(findGetParameter("utm_source"));
+                var utm_campaign        = strip_tags(findGetParameter("utm_campaign"));
+                var utm_medium          = strip_tags(findGetParameter("utm_medium"));
+                var gclid               = strip_tags(findGetParameter("gclid"));
+                var int_banner_name     = strip_tags(findGetParameter("int_banner_name"));
+                var int_banner_creative = strip_tags(findGetParameter("int_banner_creative"));
+                if(gclid){
+                    setCookieKabum('visitor_source','google');
+                    setCookieKabum('visitor_campaign','cpc');
+                    setCookieKabum('visitor_medium','cpc');
+                }else if(utm_source){
+                    setCookieKabum('visitor_source',utm_source);
+                    setCookieKabum('visitor_campaign',utm_campaign);
+                    setCookieKabum('visitor_medium',utm_medium);
+                }else if(int_banner_name){
+                    setCookieKabum('int_banner_name',int_banner_name);
+                    setCookieKabum('int_banner_creative',int_banner_creative);
+                    setCookieKabum('visitor_source','', '-1');
+                    setCookieKabum('visitor_campaign','', '-1');
+                    setCookieKabum('visitor_medium','', '-1');
+                }else if(getCookieKabum('visitor_source')){
+                    setCookieKabum('visitor_source',getCookieKabum('visitor_source'));
+                    setCookieKabum('visitor_campaign',getCookieKabum('visitor_campaign'));
+                    setCookieKabum('visitor_medium',getCookieKabum('visitor_medium'));
+                }else{
+                    setCookieKabum('visitor_source','direct');
+                    setCookieKabum('visitor_campaign','direct');
+                    setCookieKabum('visitor_medium','direct');
+                }
+                if(getCookieKabum('id_cliente')){
+                    $.ajax({
+                        url:"https://servicespub.prod.api.aws.grupokabum.com.br/dl-visitor?id_cliente=" + getCookieKabum('id_cliente'),
+                        dataType: "JSON",
+                        success: function(json) {
+                            json.source = getCookieKabum('visitor_source');
+                            json.campaign = getCookieKabum('visitor_campaign');
+                            json.medium = getCookieKabum('visitor_medium');
+                            json.device = 'desktop';
+                            if(json.name == undefined || json.name==''){
+                                json.id = "";
+                                json.id_cliente = "";
+                                json.type = "";
+                                json.name = "";
+                                json.email = "";
+                                json.gender = "";
+                                json.age = "";
+                                json.city = "";
+                                json.state = "";
+                            }else{
+                                for (var i = 0; i< dataLayer.length; i++) {
+                                  if (dataLayer[i].crto) {
+                                      dataLayer[i].crto.email = json.email
+                                  }
+                                }
+                            }
+                            dataLayer[0].visitor = json;
+                            dataLayer.push({
+                              'event': 'visitorDataReady',
+                              'visitor': json
+                            });
+                        }
+                    });
+                }else{
+                    var json = {};
+                    json.id = "";
+                    json.id_cliente = "";
+                    json.type = "";
+                    json.name = "";
+                    json.email = "";
+                    json.gender = "";
+                    json.age = "";
+                    json.city = "";
+                    json.state = "";
+                    json.source = getCookieKabum('visitor_source');
+                    json.campaign = getCookieKabum('visitor_campaign');
+                    json.medium = getCookieKabum('visitor_medium');
+                    json.device = 'desktop';
+                    dataLayer[0].visitor = json;
+                    dataLayer.push({
+                      'event': 'visitorDataReady',
+                      'visitor': json
+                    });
+                }
+            })
+      </script>
+      
+        
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PT5HKG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PT5HKG');</script>
+<!-- End Google Tag Manager -->
+
+  
+        <div id="notification-wrapper"></div>
+        <div id="img_fundo" class="ec-internal-promotion bg_prime">
+        
+        <header>
+          <div id="BlocoTopo">
+    <!--Header -->
+    <div id="header">
+        <!--LOGO KABUM-->
+        <div id="header_logo"><a href="https://www.kabum.com.br"><img src="https://static.kabum.com.br/conteudo/temas/001/imagens/topo/logo_kabum_mobile.svg" width="288" height="104" border="0" /></a></div>
+        <div id="header_carrinho">
+            <!--listadesejos-->
+            <div class="listadesejos">
+                <div class="text-lista"><a href="https://www.kabum.com.br/cgi-local/site/minha_conta/minha_conta.cgi?link=09" target="_top">LISTA DE<br />DESEJOS</a></div>
+                <svg version="1.1" id="Layer_1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px"
+                	 viewBox="0 0 595.28 841.89" style="enable-background:new 0 0 595.28 841.89;width:48px;height:59px;margin-top:-17px;" xml:space="preserve">
+                <style type="text/css">
+                	.st0{clip-path:url(#SVGID_2_); fill: #f9c101; }
+                </style>
+                <g>
+                	<g>
+                		<defs>
+                			<rect id="SVGID_1_" x="99" y="224.89" width="395.76" height="391.98"/>
+                		</defs>
+                		<clipPath id="SVGID_2_">
+                			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+                		</clipPath>
+                		<path class="st0" d="M492.59,286.36c-2.22-3.72-5.88-6.32-10.11-7.16l-224.15-54.04c-7.39-1.43-14.68,2.65-17.23,9.71
+                			l-85.44,217.05l28.52,10.39l80.97-206.38l194.76,49.7c-12.16,37.71-41.11,116.41-68.85,189.69
+                			c-24.19,63.94-38.11,85.83-64.56,90.3c-0.03-0.03-0.06-0.06-0.06-0.11c-54.07,7.58-53.1-61.35-53.1-61.35L100.66,454.4
+                			c-12.27,77.78,47.49,96.49,47.49,96.49l126.43,57.4c0.03,0.02,19.77,9.42,41.22,8.45c57.86-1.36,78.19-43.37,103.67-110.68
+                			c36.81-97.28,74.16-206.27,74.53-207.43C495.31,294.51,494.79,290.06,492.59,286.36L492.59,286.36z M492.59,286.36"/>
+                	</g>
+                </g>
+                </svg>
+            </div>
+            <!--header carrinho-->
+            <div class="carrinho">
+                <div class="text-carrinho">
+                    <a href="https://www.kabum.com.br/carrinho" target="_top">MEU CARRINHO<br /><span style="color:#999999;" id="carrinho-qtda-produtos"></span></a>
+                </div>
+
+                <svg version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px" width="34px" height="26px" viewBox="0 0 50.613 50.613" enable-background="new 0 0 50.613 50.613" xml:space="preserve"><path fill="#fff" d="M49.569,11.145H20.055c-0.961,0-1.508,0.743-1.223,1.661l4.669,13.677c0.23,0.738,1.044,1.336,1.817,1.336h19.35c0.773,0,1.586-0.598,1.814-1.336l4.069-14C50.783,11.744,50.344,11.145,49.569,11.145z"></path><circle cx="22.724" cy="43.575" r="4.415" fill="#fff"></circle><circle cx="41.406" cy="43.63" r="4.415" fill="#fff"></circle><path fill="#fff" d="M46.707,32.312H20.886L10.549,2.568H2.5c-1.381,0-2.5,1.119-2.5,2.5s1.119,2.5,2.5,2.5h4.493L17.33,37.312h29.377c1.381,0,2.5-1.119,2.5-2.5S48.088,32.312,46.707,32.312z"></path></svg>
+            </div>
+            <!--carrinho-->
+            <div class="tracocarrinho"><img src="https://static.kabum.com.br/conteudo/temas/001/imagens/icones/i-traco-carrinho.png" /></div>
+        </div>
+        <div id="header_menu">
+            <!--menuTopo1-->
+            <div id="menuTopo1">
+                <ul>
+                        <li class="img1" id="li-login-usuario"></li>
+                        <li class="img1"><div id="KabumNick"></div></li>
+                        <li class="img2"><a href="https://www.kabum.com.br/cgi-local/site/minha_conta/minha_conta.cgi?link=08" target="_top">MEUS PEDIDOS</a></li>
+                        <!--<li class="img3"><a href="#" onclick="window.open('https://www.kabum.com.br/cgi-local/site/atendimento/chat/chat.cgi', 'KABUM_CHAT','top=50,left=50,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=475,height=450'); return false">ATENDIMENTO</a></li>-->
+                        <li class="img3">
+        <a href="#" id="chat_atendimento" onclick="window.open('https://www.kabum.com.br/cgi-local/site/atendimento/chat/faq.cgi', 'KABUM_CHAT','top=50,left=50,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=475,height=650'); return false">FALE CONOSCO</a>
+    </li>
+                        <li style="margin:0 0 0 330px; padding:0; position:absolute; top:0px;" id="btn-fechar"></li>
+                </ul>
+            </div>
+            <!--menuTopo2-->
+            <div id="menuTopo2">
+                <ul>
+                    <li><a href="https://www.kabum.com.br/cgi-local/site/minha_conta/minha_conta.cgi" target="_top">MINHA CONTA</a></li>
+                    <li><a href="https://www.kabum.com.br/cgi-local/site/institucional/sobre.cgi" target="_top">QUEM SOMOS</a></li>
+                    <li><a href="https://www.kabum.com.br/cgi-local/site/institucional/politicas.cgi" target="_top">POLÍTICAS DO SITE</a></li>
+                    <li><a href="https://www.kabum.com.br/cgi-local/site/faq/faq.cgi" target="_top">FAQ</a></li>
+                </ul>
+            </div>
+        </div>
+        <!--header busca-->
+        <div id="header_busca">
+            <!--CAMPO BUSCA -->
+            <div style="position: absolute; top: 150px;  width: 500px; height: 15px;  z-index: 50; visibility:visible" id="busca_sugestao"></div>
+            <form name="busca" id="form-busca" method="" action="https://www.kabum.com.br/cgi-local/site/listagem/listagem.cgi">
+               <input class="sprocura" type="text" name="string" style="border-style: solid; border-color: #FFFFFF; border-width: 0px; background-color: transparent; with: 300px;" size="24" onKeyUp="JavaScript:if($(this).val().length >= 4) {xmlhttpGet('https://www.kabum.com.br/cgi-local/site/busca/autocomplete.cgi', 'busca_sugestao', $(this).val())}"  autocomplete="off">
+                <input name=btnG type=submit id="bt-busca" value="" />
+            </form>
+        </div>
+        <!--header_busca-->
+    </div>
+    <!--Header -->
+    </div>
+          <div id="BlocoMenuH">
+          <nav id="mainnav">
+              <ul id="menu">
+              <li><a href="https://www.kabum.com.br/hardware" target="_top" class="drop">HARDWARE</a>
+              <div class="dropdown_3columns align_left">
+                  <div class="col_1"><ul class="greybox"><li><a href="https://www.kabum.com.br/hardware/ssd-2-5" target="_top">SSD  (359)</a></li> <li><a href="https://www.kabum.com.br/hardware/coolers" target="_top">Coolers  (595)</a></li> <li><a href="https://www.kabum.com.br/hardware/disco-rigido-hd" target="_top">Disco Rígido (HD)  (247)</a></li> <li><a href="https://www.kabum.com.br/hardware/drives" target="_top">Drives  (11)</a></li> <li><a href="https://www.kabum.com.br/hardware/fontes" target="_top">Fontes  (274)</a></li> <li><a href="https://www.kabum.com.br/hardware/memoria-ram" target="_top">Memória RAM  (608)</a></li> <li><a href="https://www.kabum.com.br/hardware/placas-mae" target="_top">Placas-mãe  (328)</a></li> <li><a href="https://www.kabum.com.br/hardware/processadores" target="_top">Processadores  (90)</a></li> <li><a href="https://www.kabum.com.br/hardware/placas-de-som" target="_top">Placas de Som  (29)</a></li> <li><a href="https://www.kabum.com.br/hardware/rede-wireless-sem-fio" target="_top">Rede Wireless (sem fio)  (1)</a></li> <li><a href="https://www.kabum.com.br/hardware/tela" target="_top">Tela  (1)</a></li> <li><a href="https://www.kabum.com.br/hardware/placa-de-video-vga" target="_top">Placa de vídeo (VGA)  (223)</a></li></ul></div>
+                  <div class="bannerMenu"><a class="ec-internal-promotion" target="_top" href="/cgi-local/site/listagem/listagem.cgi?string=AMD5000&int_banner_name=VPC_AMD_5000&int_banner_position=menu_suspenso"><img src="https://themes.kabum.com.br/conteudo/ads/admenu/3_1621239573.jpg" alt="" width="368" height="100" /></a></div>
+              </div>
+              </li>
+               
+              <li><a href="https://www.kabum.com.br/celular-telefone/smartphones" target="_top" class="drop">SMARTPHONES</a>
+              <div class="dropdown_3columns align_left">
+                  <div class="col_1"><ul class="greybox"><li><a href="https://www.kabum.com.br/celular-telefone/smartphones/alcatel" target="_top">Alcatel  (1)</a></li> <li><a href="https://www.kabum.com.br/celular-telefone/smartphones/apple" target="_top">Apple  (197)</a></li> <li><a href="https://www.kabum.com.br/celular-telefone/smartphones/lg" target="_top">LG  (101)</a></li> <li><a href="https://www.kabum.com.br/celular-telefone/smartphones/motorola" target="_top">Motorola  (173)</a></li> <li><a href="https://www.kabum.com.br/celular-telefone/smartphones/nokia" target="_top">Nokia  (8)</a></li> <li><a href="https://www.kabum.com.br/celular-telefone/smartphones/positivo" target="_top">Positivo  (22)</a></li> <li><a href="https://www.kabum.com.br/celular-telefone/smartphones/sony" target="_top">Sony  (1)</a></li> <li><a href="https://www.kabum.com.br/celular-telefone/smartphones/samsung" target="_top">Samsung  (436)</a></li> <li><a href="https://www.kabum.com.br/celular-telefone/smartphones/multilaser" target="_top">Multilaser  (40)</a></li> <li><a href="https://www.kabum.com.br/celular-telefone/smartphones/blu" target="_top">Blu  (1)</a></li> <li><a href="https://www.kabum.com.br/celular-telefone/smartphones/asus" target="_top">Asus  (47)</a></li> <li><a href="https://www.kabum.com.br/celular-telefone/smartphones/quantum" target="_top">Quantum  (5)</a></li> <li><a href="https://www.kabum.com.br/celular-telefone/smartphones/tcl" target="_top">TCL  (1)</a></li> <li><a href="https://www.kabum.com.br/celular-telefone/smartphones/xiaomi" target="_top">Xiaomi  (132)</a></li> <li><a href="https://www.kabum.com.br/celular-telefone/smartphones/philco" target="_top">Philco  (4)</a></li> <li><a href="https://www.kabum.com.br/celular-telefone/smartphones/realme" target="_top">Realme  (7)</a></li></ul></div>
+                  <div class="bannerMenu"><a class="ec-internal-promotion" target="_top" href="/cgi-local/site/listagem/listagem.cgi?string=SAMSUNggalaxya"><img src="https://themes.kabum.com.br/conteudo/ads/admenu/2_1624872743.jpg" alt="" width="368" height="100" /></a></div>
+              </div>
+              </li>
+               
+              <li><a href="https://www.kabum.com.br/perifericos" target="_top" class="drop">PERIFéRICOS</a>
+              <div class="dropdown_3columns align_left">
+                  <div class="col_1"><ul class="greybox"><li><a href="https://www.kabum.com.br/perifericos/pen-drive" target="_top">Pen Drive  (92)</a></li> <li><a href="https://www.kabum.com.br/perifericos/fone-de-ouvido-gamer" target="_top">Fone de Ouvido Gamer  (19)</a></li> <li><a href="https://www.kabum.com.br/perifericos/streamer" target="_top">Streamer  (121)</a></li> <li><a href="https://www.kabum.com.br/perifericos/teclado-gamer" target="_top">Teclado Gamer  (442)</a></li> <li><a href="https://www.kabum.com.br/perifericos/-mouse-gamer" target="_top">Mouse Gamer  (485)</a></li> <li><a href="https://www.kabum.com.br/perifericos/kit-gamer" target="_top">Kit Gamer  (62)</a></li> <li><a href="https://www.kabum.com.br/perifericos/headset-gamer" target="_top">Headset Gamer  (405)</a></li> <li><a href="https://www.kabum.com.br/perifericos/escritorio" target="_top">Escritório  (23)</a></li> <li><a href="https://www.kabum.com.br/perifericos/mesa-digitalizadora" target="_top">Mesa Digitalizadora  (53)</a></li> <li><a href="https://www.kabum.com.br/perifericos/video-conferencia" target="_top">Vídeoconferência  (1)</a></li> <li><a href="https://www.kabum.com.br/perifericos/acessorios" target="_top">Acessórios  (72)</a></li> <li><a href="https://www.kabum.com.br/perifericos/gabinetes" target="_top">Gabinetes  (409)</a></li> <li><a href="https://www.kabum.com.br/perifericos/webcam" target="_top">WebCam  (59)</a></li> <li><a href="https://www.kabum.com.br/perifericos/som-acessorios" target="_top">Som & Acessórios  (121)</a></li> <li><a href="https://www.kabum.com.br/perifericos/energia" target="_top">Energia  (264)</a></li> <li><a href="https://www.kabum.com.br/perifericos/suportes" target="_top">Suportes  (82)</a></li> <li><a href="https://www.kabum.com.br/perifericos/bolsas" target="_top">Mochilas  (63)</a></li> <li><a href="https://www.kabum.com.br/perifericos/cabos" target="_top">Cabos  (244)</a></li> <li><a href="https://www.kabum.com.br/perifericos/adaptadores" target="_top">Adaptadores  (93)</a></li> <li><a href="https://www.kabum.com.br/perifericos/teclado-mouse" target="_top">Teclado & Mouse  (355)</a></li></ul></div>
+                  <div class="bannerMenu"><a class="ec-internal-promotion" target="_top" href="/cgi-local/site/listagem/listagem.cgi?string=turtle+beach&lc=1707&int_banner_name=VPC_TURTLE_BEACH&int_banner_position=MENU_SUSPENSO"><img src="https://themes.kabum.com.br/conteudo/ads/admenu/7_1622214338.jpg" alt="" width="368" height="100" /></a></div>
+              </div>
+              </li>
+               
+              <li><a href="https://www.kabum.com.br/computadores" target="_top" class="drop">COMPUTADORES</a>
+              <div class="dropdown_3columns align_left">
+                  <div class="col_1"><ul class="greybox"><li><a href="https://www.kabum.com.br/computadores/computadores" target="_top">Computadores  (145)</a></li> <li><a href="https://www.kabum.com.br/computadores/notebooks-ultrabooks" target="_top">Notebook/Macbook  (184)</a></li> <li><a href="https://www.kabum.com.br/computadores/impressoras" target="_top">Impressoras  (282)</a></li> <li><a href="https://www.kabum.com.br/computadores/scanners" target="_top">Scanners  (40)</a></li> <li><a href="https://www.kabum.com.br/computadores/servidores" target="_top">Servidores  (15)</a></li> <li><a href="https://www.kabum.com.br/computadores/softwares" target="_top">Softwares  (59)</a></li> <li><a href="https://www.kabum.com.br/computadores/tablets" target="_top">Tablets  (42)</a></li> <li><a href="https://www.kabum.com.br/computadores/tablets-acessorios" target="_top">Tablets - Acessórios  (7)</a></li> <li><a href="https://www.kabum.com.br/computadores/computador-gamer" target="_top">Computadores Gamers  (105)</a></li> <li><a href="https://www.kabum.com.br/computadores/notebook-gamer" target="_top">Notebook Gamer  (35)</a></li> <li><a href="https://www.kabum.com.br/computadores/monitores" target="_top">Monitores  (246)</a></li></ul></div>
+                  <div class="bannerMenu"><a class="ec-internal-promotion" target="_top" href="/cgi-local/site/listagem/listagem.cgi?string=microsoftjun21&int_banner_name=_VPC_MICROSOFT_JUN21&int_banner_position=MENU_SUSPENSO"><img src="https://themes.kabum.com.br/conteudo/ads/admenu/9_1623951598.jpg" alt="" width="368" height="100" /></a></div>
+              </div>
+              </li>
+               
+              <li><a href="https://www.kabum.com.br/hardware/placa-de-video-vga" target="_top" class="drop">PLACAS DE VÍDEO</a>
+              <div class="dropdown_3columns align_left">
+                  <div class="col_1"><ul class="greybox"><li><a href="https://www.kabum.com.br/hardware/placa-de-video-vga/acessorios" target="_top">Acessórios  (22)</a></li> <li><a href="https://www.kabum.com.br/hardware/placa-de-video-vga/amd-ati" target="_top">AMD / ATI  (61)</a></li> <li><a href="https://www.kabum.com.br/hardware/placa-de-video-vga/nvidia" target="_top">Nvidia  (140)</a></li></ul></div>
+                  <div class="bannerMenu"><a class="ec-internal-promotion" target="_top" href="/cgi-local/brand_store/nvidia/index.cgi?int_banner_name=VPC_NVIDIA&int_banner_position=MENU_SUSPENSO"><img src="https://themes.kabum.com.br/conteudo/ads/admenu/1_1601290003.jpg" alt="" width="368" height="100" /></a></div>
+              </div>
+              </li>
+               
+              <li><a href="https://www.kabum.com.br/computadores/monitores" target="_top" class="drop">MONITORES</a>
+              <div class="dropdown_3columns align_left">
+                  <div class="col_1"><ul class="greybox"><li><a href="https://www.kabum.com.br/computadores/monitores/led" target="_top">LED  (81)</a></li> <li><a href="https://www.kabum.com.br/computadores/monitores/gamers" target="_top">Gamers  (151)</a></li> <li><a href="https://www.kabum.com.br/computadores/monitores/portatil-" target="_top">Portátil   (3)</a></li> <li><a href="https://www.kabum.com.br/computadores/monitores/profissionais" target="_top">Profissionais  (11)</a></li></ul></div>
+                  <div class="bannerMenu"><a class="ec-internal-promotion" target="_top" href="/computadores/monitores?int_banner_name=VPC_LG&int_banner_position=MENU_SUSPENSO"><img src="https://themes.kabum.com.br/conteudo/ads/admenu/5_1619718758.jpg" alt="" width="368" height="100" /></a></div>
+              </div>
+              </li>
+               
+              <li><a href="https://www.kabum.com.br/perifericos/teclado-mouse" target="_top" class="drop">TECLADO & MOUSE</a>
+              <div class="dropdown_3columns align_left">
+                  <div class="col_1"><ul class="greybox"><li><a href="https://www.kabum.com.br/perifericos/teclado-mouse/mouse-com-fio" target="_top">Mouse com Fio  (5)</a></li> <li><a href="https://www.kabum.com.br/perifericos/teclado-mouse/mouse-sem-fio" target="_top">Mouse sem Fio  (10)</a></li> <li><a href="https://www.kabum.com.br/perifericos/teclado-mouse/teclado-mouse-combo" target="_top">Teclado + Mouse (Combo)  (6)</a></li> <li><a href="https://www.kabum.com.br/perifericos/teclado-mouse/teclado-gamer" target="_top">Teclado Gamer  (4)</a></li> <li><a href="https://www.kabum.com.br/perifericos/teclado-mouse/ergonomia" target="_top">Ergonomia  (26)</a></li> <li><a href="https://www.kabum.com.br/perifericos/teclado-mouse/mouse" target="_top">Mouse  (191)</a></li> <li><a href="https://www.kabum.com.br/perifericos/teclado-mouse/teclado" target="_top">Teclado  (62)</a></li> <li><a href="https://www.kabum.com.br/perifericos/teclado-mouse/kit-teclado-mouse" target="_top">Kit Teclado + Mouse  (51)</a></li></ul></div>
+                  <div class="bannerMenu"><a class="ec-internal-promotion" target="_top" href="/cgi-local/site/listagem/listagem.cgi?string=hyperx&int_banner_name=HYPERX&int_banner_position=MENU_SUSPENSO"><img src="https://themes.kabum.com.br/conteudo/ads/admenu/6_1548670040.jpg" alt="" width="368" height="100" /></a></div>
+              </div>
+              </li>
+               
+              <li><a href="https://www.kabum.com.br/gamer" target="_top" class="drop">GAMER</a>
+              <div class="dropdown_3columns align_right">
+                  <div class="col_1"><ul class="greybox"><li><a href="https://www.kabum.com.br/gamer/tectoy" target="_top">Tectoy  (2)</a></li> <li><a href="https://www.kabum.com.br/gamer/simuladores" target="_top">Simuladores  (2)</a></li> <li><a href="https://www.kabum.com.br/gamer/xbox-series" target="_top">Xbox Series  (32)</a></li> <li><a href="https://www.kabum.com.br/gamer/playstation-5" target="_top">Playstation 5  (51)</a></li> <li><a href="https://www.kabum.com.br/gamer/tapetes-gamer" target="_top">Tapetes Gamer  (1)</a></li> <li><a href="https://www.kabum.com.br/gamer/mesa-gamer" target="_top">Mesa Gamer  (105)</a></li> <li><a href="https://www.kabum.com.br/gamer/nintendo-switch" target="_top">Nintendo Switch  (102)</a></li> <li><a href="https://www.kabum.com.br/gamer/acessorios" target="_top">Acessórios  (6)</a></li> <li><a href="https://www.kabum.com.br/gamer/consoles" target="_top">Consoles  (13)</a></li> <li><a href="https://www.kabum.com.br/gamer/cadeiras-gamer" target="_top">Cadeiras Gamer  (14)</a></li> <li><a href="https://www.kabum.com.br/gamer/playstation-3" target="_top">Playstation 3  (40)</a></li> <li><a href="https://www.kabum.com.br/gamer/e-sports" target="_top">E-Sports  (26)</a></li> <li><a href="https://www.kabum.com.br/gamer/nintendo-3ds" target="_top">Nintendo 3DS  (3)</a></li> <li><a href="https://www.kabum.com.br/gamer/cockpit" target="_top">Cockpit  (46)</a></li> <li><a href="https://www.kabum.com.br/gamer/sony-psp" target="_top">Sony PSP  (1)</a></li> <li><a href="https://www.kabum.com.br/gamer/nintendo-wii" target="_top">Nintendo Wii  (2)</a></li> <li><a href="https://www.kabum.com.br/gamer/pc" target="_top">PC  (44)</a></li> <li><a href="https://www.kabum.com.br/gamer/playstation-4" target="_top">Playstation 4  (471)</a></li> <li><a href="https://www.kabum.com.br/gamer/xbox-one" target="_top">Xbox ONE  (212)</a></li> <li><a href="https://www.kabum.com.br/gamer/xbox-360" target="_top">Xbox 360  (45)</a></li></ul></div>
+                  <div class="bannerMenu"><a class="ec-internal-promotion" target="_top" href="/cgi-local/site/listagem/listagem.cgi?string=AOCPERIFERICOS1&lc=1647&int_banner_name=VPC_AOC&int_banner_position=MENU_SUSPENSO"><img src="https://themes.kabum.com.br/conteudo/ads/admenu/4_1621624322.jpg" alt="" width="368" height="100" /></a></div>
+              </div>
+              </li>
+               
+          <li style='margin-left:0px !important;'>
+            <a href="#" class="drop">HOME OFFICE</a>
+            <div class="dropdown_3columns align_right">
+              <div class="col_1"><ul class="greybox"><li><a href="https://www.kabum.com.br/perifericos/pen-drive" target="_top">Pen Drive  (92)</a></li> <li><a href="https://www.kabum.com.br//cadeiras" target="_top">Cadeiras  (909)</a></li> <li><a href="https://www.kabum.com.br/perifericos/escritorio" target="_top">Escritório  (23)</a></li> <li><a href="https://www.kabum.com.br/perifericos/mesa-digitalizadora" target="_top">Mesa Digitalizadora  (53)</a></li> <li><a href="https://www.kabum.com.br/gamer/cadeiras-gamer" target="_top">Cadeiras Gamer  (14)</a></li> <li><a href="https://www.kabum.com.br/hardware/rede-wireless-sem-fio" target="_top">Rede Wireless (sem fio)  (1)</a></li> <li><a href="https://www.kabum.com.br/computadores/tablets" target="_top">Tablets  (42)</a></li> <li><a href="https://www.kabum.com.br/computadores/softwares" target="_top">Softwares  (59)</a></li> <li><a href="https://www.kabum.com.br/perifericos/cabos" target="_top">Cabos  (244)</a></li> <li><a href="https://www.kabum.com.br/perifericos/webcam" target="_top">WebCam  (59)</a></li> <li><a href="https://www.kabum.com.br/computadores/servidores" target="_top">Servidores  (15)</a></li> <li><a href="https://www.kabum.com.br/computadores/scanners" target="_top">Scanners  (40)</a></li> <li><a href="https://www.kabum.com.br/computadores/impressoras" target="_top">Impressoras  (282)</a></li> <li><a href="https://www.kabum.com.br/computadores/notebooks-ultrabooks" target="_top">Notebook/Macbook  (184)</a></li> <li><a href="https://www.kabum.com.br/computadores/computadores" target="_top">Computadores  (145)</a></li> <li><a href="https://www.kabum.com.br/celular-telefone/smartphones" target="_top">Smartphones  (1261)</a></li> <li><a href="https://www.kabum.com.br/computadores/monitores" target="_top">Monitores  (246)</a></li> <li><a href="https://www.kabum.com.br/perifericos/teclado-mouse" target="_top">Teclado & Mouse  (355)</a></li></ul></div>
+              <div class="bannerMenu"><a class="ec-internal-promotion" target="_top" href="/cadeiras?int_banner_name=HOME_OFFICE&int_banner_position=MENU_SUSPENSO"><img src="https://themes.kabum.com.br/conteudo/ads/admenu/10_1620905506.jpg" alt="" width="368" height="100" /></a></div>
+            </div>
+          </li>
+         
+          <li style='margin-left:0px !important;'>
+            <a href="#" class="drop">+CATEGORIAS</a>
+            <div class="dropdown_3columns align_right">
+              <div class="col_1"><ul class="greybox"><li><a href="https://www.kabum.com.br/geek" target="_top">Geek  (749)</a></li> <li><a href="https://www.kabum.com.br/servicos-digitais" target="_top">Serviços Digitais  (124)</a></li> <li><a href="https://www.kabum.com.br/tecmasters" target="_top">TecMasters  (17)</a></li> <li><a href="https://www.kabum.com.br/moveis" target="_top">Móveis  (1044)</a></li> <li><a href="https://www.kabum.com.br/decoracao" target="_top">Decoração  (30)</a></li> <li><a href="https://www.kabum.com.br/utilidades-domesticas" target="_top">Utilidades Domésticas  (355)</a></li> <li><a href="https://www.kabum.com.br/bebes" target="_top">Bebês  (38)</a></li> <li><a href="https://www.kabum.com.br/beneficio" target="_top">Beneficio  (1)</a></li> <li><a href="https://www.kabum.com.br/ar-condicionado-e-ventilacao" target="_top">Ar Condicionado e Ventilação  (287)</a></li> <li><a href="https://www.kabum.com.br/eletrodomesticos" target="_top">Eletrodomésticos  (2320)</a></li> <li><a href="https://www.kabum.com.br/audio" target="_top">Áudio  (953)</a></li> <li><a href="https://www.kabum.com.br/tv" target="_top">TV  (340)</a></li> <li><a href="https://www.kabum.com.br/conectividade" target="_top">Conectividade  (674)</a></li> <li><a href="https://www.kabum.com.br/projetores" target="_top">Projetores  (62)</a></li> <li><a href="https://www.kabum.com.br/smart-home" target="_top">Smart Home  (128)</a></li> <li><a href="https://www.kabum.com.br/cameras-digitais" target="_top">Câmeras Digitais  (232)</a></li> <li><a href="https://www.kabum.com.br/brinquedos" target="_top">Brinquedos  (275)</a></li> <li><a href="https://www.kabum.com.br/celular-telefone" target="_top">Celular & Telefone  (2192)</a></li> <li><a href="https://www.kabum.com.br/presentes" target="_top">Presentes  (51)</a></li> <li><a href="https://www.kabum.com.br/beleza-saude" target="_top">Beleza & Saúde  (1077)</a></li> <li><a href="https://www.kabum.com.br/casa-jardim" target="_top">Casa & Jardim  (349)</a></li> <li><a href="https://www.kabum.com.br/esporte-e-lazer" target="_top">Esporte e Lazer  (491)</a></li> <li><a href="https://www.kabum.com.br/automacao" target="_top">Automação  (193)</a></li> <li><a href="https://www.kabum.com.br/ferramentas" target="_top">Ferramentas  (551)</a></li> <li><a href="https://www.kabum.com.br/eletroportateis" target="_top">Eletroportáteis  (4836)</a></li> <li><a href="https://www.kabum.com.br/automotivo" target="_top">Automotivo  (780)</a></li> <li><a href="https://www.kabum.com.br/seguranca" target="_top">Segurança  (351)</a></li> <li><a href="https://www.kabum.com.br/relogios" target="_top">Relógios  (20)</a></li> <li><a href="https://www.kabum.com.br/instrumento-musical" target="_top">Instrumento Musical  (171)</a></li> <li><a href="https://www.kabum.com.br/computadores/tablets" target="_top">Tablets  (42)</a></li></ul></div>
+              <div class="bannerMenu"><a class="ec-internal-promotion" target="_top" href="/cgi-local/site/listagem/listagem.cgi?string=MICROSOFTSOFTWAREMAR21&int_banner_name=MICROSOFT_SOFT&int_banner_position=MENU_SUSPENSO"><img src="https://themes.kabum.com.br/conteudo/ads/admenu/11_1621859008.jpg" alt="" width="368" height="100" /></a></div>
+            </div>
+          </li>
+        </ul>
+          </nav>
+        </div>
+        </header>
+        <main>
+           <div id="BlocoBannerTopo" style="height: 200px; width: 980px; overflow: hidden;">
+                                    <a target='_top' href="/ofertas/upgrade?int_banner_name=upgradejunho2021&int_banner_position=theme_internal" class="ec-internal-promotion">
+                                         <img src="https://themes.kabum.com.br/conteudo/layout/1743/banner_img.jpg">
+                                    </a>
+                                  </div> 
+        <div id="BlocoTopoTarja" style="width: 980px;">
+          <div>
+          <a href="https://www.kabum.com.br/cgi-local/site/tools/banner.cgi?W=LTx1743&int_banner_name=THEME%20UPGRADE%20PC%20JUNHO%202021&int_banner_position=tematizacao_listagem" target="_top">
+            <img src="https://themes.kabum.com.br/conteudo/layout/1743/tarja.gif" width="980" height="47" /></a>
+          </div>
+        </div>
+        
+          
+          
+          <article>
+              <div id="BlocoLayoutConteudo">
+                    <aside id="BlocoMenuV">
+            <!--MENU CATEGORIAS LATERAL -->
+              <div id="menu_left_fundo">
+                <div id="menu_left">
+                <style>#menu_left{background-image: none !important;margin-top: 25px;}</style><div id='listagem-filtro'></div>
+            
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Hardware</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/hardware/coolers">Coolers</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/hardware/disco-rigido-hd">Disco Rígido (HD)</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/hardware/drives">Drives</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/hardware/fontes">Fontes</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/hardware/memoria-ram">Memória RAM</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/hardware/placa-de-video-vga">Placa de vídeo (VGA)</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/hardware/placas-de-som">Placas de Som</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/hardware/placas-mae">Placas-mãe</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/hardware/processadores">Processadores</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/hardware/rede-wireless-sem-fio">Rede Wireless (sem fio)</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/hardware/ssd-2-5">SSD</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/hardware/tela">Tela</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Serviços Digitais</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/servicos-digitais/giftcard">Giftcard</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Periféricos</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/perifericos/acessorios">Acessórios</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/perifericos/adaptadores">Adaptadores</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/perifericos/cabos">Cabos</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/perifericos/energia">Energia</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/perifericos/escritorio">Escritório</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/perifericos/fone-de-ouvido-gamer">Fone de Ouvido Gamer</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/perifericos/gabinetes">Gabinetes</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/perifericos/headset-gamer">Headset Gamer</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/perifericos/kit-gamer">Kit Gamer</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/perifericos/mesa-digitalizadora">Mesa Digitalizadora</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/perifericos/bolsas">Mochilas</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/perifericos/-mouse-gamer">Mouse Gamer</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/perifericos/pen-drive">Pen Drive</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/perifericos/som-acessorios">Som & Acessórios</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/perifericos/streamer">Streamer</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/perifericos/suportes">Suportes</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/perifericos/teclado-mouse">Teclado & Mouse</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/perifericos/teclado-gamer">Teclado Gamer</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/perifericos/video-conferencia">Vídeoconferência</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/perifericos/webcam">WebCam</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Gamer</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/gamer/acessorios">Acessórios</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/gamer/cadeiras-gamer">Cadeiras Gamer</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/gamer/cockpit">Cockpit</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/gamer/consoles">Consoles</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/gamer/e-sports">E-Sports</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/gamer/mesa-gamer">Mesa Gamer</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/gamer/nintendo-3ds">Nintendo 3DS</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/gamer/nintendo-switch">Nintendo Switch</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/gamer/nintendo-wii">Nintendo Wii</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/gamer/pc">PC</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/gamer/playstation-3">Playstation 3</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/gamer/playstation-4">Playstation 4</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/gamer/playstation-5">Playstation 5</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/gamer/simuladores">Simuladores</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/gamer/sony-psp">Sony PSP</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/gamer/tapetes-gamer">Tapetes Gamer</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/gamer/tectoy">Tectoy</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/gamer/xbox-360">Xbox 360</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/gamer/xbox-one">Xbox ONE</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/gamer/xbox-series">Xbox Series</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Cadeiras</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/cadeiras/cadeiras-gamer">Cadeiras Gamer</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/cadeiras/cadeiras-office">Cadeiras Office</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/cadeiras/ergonomica">Ergonomica</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Computadores</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/computadores/computadores">Computadores</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/computadores/computador-gamer">Computadores Gamers</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/computadores/impressoras">Impressoras</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/computadores/monitores">Monitores</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/computadores/notebook-gamer">Notebook Gamer</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/computadores/notebooks-ultrabooks">Notebook/Macbook</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/computadores/scanners">Scanners</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/computadores/servidores">Servidores</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/computadores/softwares">Softwares</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/computadores/tablets">Tablets</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/computadores/tablets-acessorios">Tablets - Acessórios</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Celular & Telefone</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/celular-telefone/celulares">Celulares</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/celular-telefone/smartphones">Smartphones</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/celular-telefone/smartphones-acessorios">Smartphones - Acessórios</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/celular-telefone/telefones">Telefones</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">TV</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/tv/acessorios-para-tvs">Acessórios para TVs</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/tv/smart-tv">Smart TV</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/tv/tv-4k">TV 4K</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/tv/tv-8k">TV 8K</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/tv/tv-led">TV Led</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/tv/tv-monitor">TV Monitor</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Beneficio</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/beneficio/prime">Prime</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Eletroportáteis</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/abridor-de-vinho">Abridor de Vinho</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/acessorios-e-pecas">Acessórios e Peças</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/adega">Adega</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/aquecedor">Aquecedor</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/aquecedor-de-alimentos">Aquecedor de Alimentos</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/ar-portatil">Ar portátil</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/aspirador-de-po">Aspirador de pó</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/aspirador-de-po-portatil">Aspirador de pó portátil</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/balanca">Balança</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/batedeira">Batedeira</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/bebedouro">Bebedouro</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/beleza-e-saude">Beleza e Saúde</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/cafeteira">Cafeteira</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/centrifuga">Centrífuga</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/cervejeira">Cervejeira</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/chaleira">Chaleira</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/churrasqueira">Churrasqueira</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/churrasqueira-eletrica">Churrasqueira Elétrica</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/climatizador">Climatizador</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/cooktop">Cooktop</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/cortador-de-cabelo">Cortador de cabelo</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/crepeira">Crepeira</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/desumidificador">Desumidificador</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/espremedor">Espremedor</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/faca-eletrica">Faca Elétrica</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/fatiador">Fatiador</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/ferro-a-seco">Ferro a Seco</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/ferro-a-vapor">Ferro a Vapor</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/ferro-eletrico">Ferro Elétrico</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/forno-eletrico">Forno Elétrico</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/frigobar-">Frigobar </a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/fritadeira">Fritadeira</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/fritadeira-sem-oleo">Fritadeira sem Óleo</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/garrafa-termica">Garrafa Térmica</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/grill">Grill</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/kit-casa">Kit Casa</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/kit-cozinha">Kit cozinha</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/kits-eletroportateis">Kits Eletroportáteis</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/lavadora">Lavadora</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/limpadora-de-pisos">Limpadora de Pisos</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/limpadora-e-higienizadora-">Limpadora e Higienizadora </a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/liquidificador">Liquidificador</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/maquina-de-algodao-doce">Maquina de Algodão Doce</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/maquina-de-cafe">Máquina de café</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/maquina-de-costura">Máquina de Costura</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/maquina-de-cupcake">Máquina de Cupcake</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/maquina-de-gelo">Máquina de Gelo</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/maquina-de-waffle">Máquina de Waffle</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/marmiteira-eletrica">Marmiteira Elétrica</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/microondas">Microondas</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/mini-cooler">Mini cooler</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/mini-geladeira">Mini geladeira</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/mini-mixer">Mini Mixer</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/mixer">Mixer</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/moedor-de-cafe">Moedor de Café</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/moedor-de-temperos">Moedor de temperos</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/multiprocessador">Multiprocessador</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/omeleteira">Omeleteira</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/panela-de-arroz">Panela de arroz</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/panela-de-pressao">Panela de pressão</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/panela-eletrica">Panela Elétrica</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/panela-fondue-eletrica">Panela Fondue elétrica</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/panificadora">Panificadora</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/passadeira-a-vapor">Passadeira a Vapor</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/pipoqueira">Pipoqueira</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/processadores">Processadores</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/purificador-de-agua">Purificador de Água</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/purificador-de-ar">Purificador de Ar</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/racleteira">Racleteira</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/ralador-eletrico">Ralador Elétrico</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/sanduicheira-e-grill">Sanduicheira e Grill</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/secadora-de-roupa">Secadora de Roupa</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/seladora-a-vacuo">Seladora a Vacuo</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/torradeira">Torradeira</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/tostador">Tostador</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/umidificador">Umidificador</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/vaporizador">Vaporizador</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/ventilador">Ventilador</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletroportateis/ventilador-de-teto">Ventilador de teto</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Eletrodomésticos</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/acessorios">Acessórios</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/adega-de-vinho">Adega de Vinho</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/batedeira">Batedeira</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/bebedouros">Bebedouros</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/centrifuga-de-roupas">Centrifuga de Roupas</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/centrifuga-e-espremedores">Centrífuga e Espremedores</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/cervejeira">Cervejeira</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/chaleira-e-cafeteira">Chaleira e Cafeteira</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/chopeira">Chopeira</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/coifas-e-depuradores">Coifas e Depuradores</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/cooktop">Cooktop</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/fatiadores-trituradores-e-processadores-de-aliment">Fatiadores, Trituradores e Processadores de Alimen</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/ferro-de-passar-roupa">Ferro de Passar Roupa</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/filtro-de-agua">Filtro de Água</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/fornos-e-fogoes">Fornos e Fogões</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/freezer">Freezer</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/fritadeiras">Fritadeiras</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/kit-cozinha-">Kit Cozinha </a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/lava-e-seca-maquina-de-lavar-e-tanquinho">Lava e Seca, Máquina de Lavar e Tanquinho</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/lavalouca">Lavalouça</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/liquidificador">Liquidificador</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/maquina-de-gelo">Máquina de Gelo</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/maquina-de-refrigerante">Máquina de Refrigerante</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/mini-geladeira">Mini Geladeira</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/mixer-e-processadores">Mixer e Processadores</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/moedores-e-amassadores">Moedores e amassadores</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/panelas-panelas-eletricas-e-panelas-de-pressao">Panelas, Panelas Elétricas e Panelas de Pressão</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/pipoqueira">Pipoqueira</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/refrigerador">Refrigerador</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/secadora">Secadora</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/torradeiras">Torradeiras</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/eletrodomesticos/ventiladores">Ventiladores</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Beleza & Saúde</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/aparador-de-pelos">Aparador de pelos</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/assento-ortopedico">Assento Ortopédico</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/baba-eletronica">Babá Eletrônica</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/balanca-digital-">Balança Digital </a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/balanca-eletronica">Balança Eletrônica</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/barbeador">Barbeador</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/bolsa-termica">Bolsa Térmica</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/chuveiro">Chuveiro</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/cortador-de-cabelos">Cortador de Cabelos</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/depilador">Depilador</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/desumidificador-de-ar">Desumidificador de Ar</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/dilatador-nasal">Dilatador Nasal</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/escova-alisadora">Escova Alisadora</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/escova-dental">Escova Dental</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/escova-modeladora">Escova Modeladora</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/escova-secadora">Escova Secadora</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/escova-sonica">Escova Sônica</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/esterilizador">Esterilizador</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/fita-kinesio">Fita Kinésio</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/hidromassageador">Hidromassageador</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/inalador">Inalador</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/irrigador-bucal">Irrigador Bucal</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/irrigador-oral">Irrigador Oral</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/kit-cuidados-pessoais">Kit Cuidados pessoais</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/manicure-e-pedicure">Manicure e Pedicure</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/maquina-de-cortar-cabelo">Maquina de Cortar Cabelo</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/mascara">Máscara</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/massageador">Massageador</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/modelador-de-cabelo">Modelador de Cabelo</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/prancha">Prancha</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/relaxamento">Relaxamento</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/relogio">Relógio</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/saude">Saúde</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/secador">Secador</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/termocera">Termocera</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/termometro">Termometro</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/beleza-saude/umidificadores">Umidificadores</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Áudio</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/audio/caixa-de-som">Caixa de Som</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/audio/dj">DJ</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/audio/dvd-e-blue-ray">DVD e Blue Ray</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/audio/fone-de-ouvido">Fone de Ouvido</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/audio/home-theater">Home Theater</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/audio/microfone">Microfone</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/audio/mini-e-micro-system">Mini e Micro System</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/audio/radio-portatil">Rádio Portátil</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/audio/soundbar">Soundbar</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/audio/toca-discos-e-vitrolas">Toca Discos e Vitrolas</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Automotivo</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/automotivo/acessorios-12v">Acessórios 12V</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automotivo/acessorios-exterior">Acessórios Exterior</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automotivo/acessorios-interior">Acessórios Interior</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automotivo/acessorios-p-motos">Acessórios p/ Motos</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automotivo/acessorios-para-motor">Acessórios para motor</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automotivo/alarmes">Alarmes</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automotivo/aspirador">Aspirador</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automotivo/cabos">Cabos</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automotivo/cadeira-p-bebes">Cadeira p/ Bebês</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automotivo/camera-veicular">Câmera Veicular</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automotivo/cd-mp3-player">CD/MP3 Player</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automotivo/central-multimidia">Central Multimídia</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automotivo/compressor-">Compressor </a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automotivo/dvd-player">DVD Player</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automotivo/gps">GPS</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automotivo/iluminacao">Iluminação</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automotivo/limpeza">Limpeza</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automotivo/modulos-amplificadores">Módulos Amplificadores</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automotivo/motocicletas-">Motocicletas </a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automotivo/pneus">Pneus</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automotivo/sensor-de-estacionamento">Sensor de Estacionamento</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automotivo/som-automotivo">Som Automotivo</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automotivo/trava-eletrica">Trava Elétrica</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automotivo/tuning">Tuning</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automotivo/vidro-eletrico">Vidro Elétrico</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Geek</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/geek/action-figures">Action Figures</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/geek/brinquedos-e-jogos">Brinquedos e Jogos</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/geek/casa-geek">Casa Geek</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/geek/colecionaveis">Colecionáveis</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/geek/funkos">Funkos</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/geek/jogos">Jogos</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/geek/lego">LEGO</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Conectividade</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/conectividade/access-point">Access Point</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/conectividade/adaptador-usb">Adaptador USB</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/conectividade/antena">Antena</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/conectividade/cabos">Cabos de Rede</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/conectividade/conversor-de-midia">Conversor de Mídia</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/conectividade/mini-servidor">Mini Servidor</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/conectividade/modem">Modem</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/conectividade/patch-panel">Patch Panel</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/conectividade/placas-de-rede">Placas de Rede</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/conectividade/protetor-de-surto">Protetor de Surto</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/conectividade/rack">Rack</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/conectividade/radio">Rádio</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/conectividade/repetidor">Repetidor</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/conectividade/roteadores">Roteadores</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/conectividade/roteadores-wired">Roteadores Wired</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/conectividade/switches">Switches</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/conectividade/terminal-">Terminal </a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/conectividade/transceiver">Transceiver</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Ferramentas</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/ferramentas/acessorios">Acessórios</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/ferramentas/compressores-de-ar">Compressores de Ar</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/ferramentas/eletricas">Elétricas</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/ferramentas/manuais">Manuais</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/ferramentas/precisao-e-medicao">Precisão e Medição</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/ferramentas/solda">Solda</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Esporte e Lazer</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/esporte-e-lazer/artes-marciais">Artes Marciais</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/esporte-e-lazer/bicicleta">Bicicleta</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/esporte-e-lazer/binoculos">Binóculos</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/esporte-e-lazer/camping">Camping</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/esporte-e-lazer/esportes-aquaticos">Esportes Aquáticos</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/esporte-e-lazer/esportes-radicais">Esportes radicais</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/esporte-e-lazer/fitness-e-musculacao">Fitness e Musculação</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/esporte-e-lazer/jogos-de-mesa-e-salao">Jogos de Mesa e Salão</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/esporte-e-lazer/lutas-artes-marciais">Lutas / Artes Marciais</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/esporte-e-lazer/patins">Patins</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/esporte-e-lazer/pilates-e-yoga">Pilates e Yoga</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/esporte-e-lazer/praia-e-piscina">Praia e Piscina</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/esporte-e-lazer/skate">Skate</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/esporte-e-lazer/surf-bodyboard-e-stand-up">Surf, Bodyboard e Stand Up</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/esporte-e-lazer/utensilios-esportivos">Utensílios Esportivos</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Segurança</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/seguranca/-kit-dvr"> Kit DVR</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/seguranca/acessorio-cftv">Acessório CFTV</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/seguranca/acessorios-">Acessórios</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/seguranca/alarmes">Alarmes</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/seguranca/baba-eletronica">Babá Eletrônica</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/seguranca/botoeira">Botoeira</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/seguranca/botoeira-inox">Botoeira Inox</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/seguranca/cameras">Câmeras</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/seguranca/campainha">Campainha</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/seguranca/carregador-eletronico">Carregador Eletrônico</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/seguranca/cofres">Cofres</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/seguranca/controle-remoto">Controle Remoto</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/seguranca/dvr">DVR</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/seguranca/fechadura-digital">Fechadura Digital</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/seguranca/-fechaduras">Fechaduras</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/seguranca/gravador">Gravador</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/seguranca/-iluminacao">Iluminação</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/seguranca/intelbras">Intelbras</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/seguranca/macaneta-digital">Maçaneta digital</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/seguranca/porteiro">Porteiro</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/seguranca/sensor">Sensor</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/seguranca/sirene">Sirene</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/seguranca/smart-home">Smart Home</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Casa & Jardim</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/casa-jardim/aparador-de-grama-">Aparador de Grama </a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/casa-jardim/banheiro">Banheiro</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/casa-jardim/banheiro">Banheiro</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/casa-jardim/bomba-submersiva">Bomba Submersiva</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/casa-jardim/churrasqueira">Churrasqueira</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/casa-jardim/cozinha">Cozinha</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/casa-jardim/decoracao">Decoração</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/casa-jardim/escritorio">Escritório</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/casa-jardim/gerador-de-energia">Gerador de Energia</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/casa-jardim/iluminacao">Iluminação</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/casa-jardim/jardim">Jardim</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/casa-jardim/lavadora-de-alta-pressao">Lavadora de Alta Pressão</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/casa-jardim/limpadora-de-pisos">Limpadora de pisos</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/casa-jardim/pulverizador">Pulverizador</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/casa-jardim/soprador-de-jardim">Soprador de Jardim</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/casa-jardim/utilidades-domesticas">Utilidades Domésticas</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/casa-jardim/vassoura-eletrica">Vassoura Elétrica</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Brinquedos</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/brinquedos/blocos-de-montar">Blocos de Montar</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/brinquedos/bonecos">Bonecos</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/brinquedos/bonecos-e-personagens">Bonecos e Personagens</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/brinquedos/brincando-de-casinha">Brincando de Casinha</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/brinquedos/brinquedos-de-agua-e-praia">Brinquedos de Água e Praia</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/brinquedos/brinquedos-para-bebes">Brinquedos para Bebês</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/brinquedos/cama-elastica">Cama Elástica</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/brinquedos/carrinhos-e-veiculos">Carrinhos e Veículos</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/brinquedos/carros-e-mini-veiculos">Carros e Mini Veículos</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/brinquedos/casinhas-e-barracas">Casinhas e Barracas</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/brinquedos/colecionaveis-">Colecionáveis </a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/brinquedos/controle-remoto-">Controle Remoto </a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/brinquedos/decoracao">Decoração</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/brinquedos/instrumentos-musicais">Instrumentos Musicais</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/brinquedos/jogos">Jogos</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/brinquedos/mini-veiculos">Mini Veículos</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/brinquedos/miniaturas-e-cenarios">Miniaturas e Cenários</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/brinquedos/patinete">Patinete</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/brinquedos/personagens">Personagens</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/brinquedos/playgrounds-e-lazer">Playgrounds e Lazer</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/brinquedos/quebra-cabeca">Quebra-Cabeça</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/brinquedos/slime-e-amoeba">Slime e Amoeba</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Câmeras Digitais</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/cameras-digitais/acessorios">Acessórios</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/cameras-digitais/bastao-de-selfie">Bastão de Selfie</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/cameras-digitais/bateria-alcalina-">Bateria Alcalina </a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/cameras-digitais/bateria-litio">Bateria Litio</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/cameras-digitais/bateria-recarregavel-">Bateria Recarregável </a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/cameras-digitais/camera-de-aventura">Câmera de Aventura</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/cameras-digitais/camera-instantanea">Câmera Instantânea</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/cameras-digitais/cameras-digitais">Câmeras Digitais</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/cameras-digitais/carregador-de-pilha-">Carregador de Pilha </a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/cameras-digitais/cartoes-de-memoria">Cartões de memória</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/cameras-digitais/drones">Drones</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/cameras-digitais/estabilizador-para-celular">Estabilizador para celular</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/cameras-digitais/filmadoras">Filmadoras</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/cameras-digitais/gopro">GoPro</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/cameras-digitais/kit-pilhas">Kit Pilhas</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/cameras-digitais/linha-profissional">Linha Profissional</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/cameras-digitais/monope">Monopé</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/cameras-digitais/pilha-alcalina">Pilha Alcalina</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/cameras-digitais/pilha-moeda">Pilha Moeda</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/cameras-digitais/pilha-recarregavel">Pilha Recarregável</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/cameras-digitais/pilha-zinco-carbono">Pilha Zinco-Carbono</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/cameras-digitais/tripes">Tripés</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Automação</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/automacao/baterias">Baterias</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automacao/calculadoras">Calculadoras</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automacao/combo">Combo</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automacao/contador-de-cedulas">Contador de Cédulas</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automacao/gavetas">Gavetas</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automacao/impressora">Impressora</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automacao/impressora-nao-fiscal">Impressora não fiscal</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automacao/impressora-termica">Impressora Térmica</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automacao/kit-sat-e-impressora">Kit SAT e Impressora</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automacao/leitores">Leitores</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automacao/luminaria-mesa">Luminária Mesa</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automacao/monitor-touchscreen">Monitor touchscreen</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automacao/painel-solar">Painel Solar</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automacao/porta-cedulas">Porta Cédulas</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automacao/relogio-de-ponto">Relógio de Ponto</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automacao/rotulador">Rotulador</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automacao/sat-fiscal">SAT Fiscal</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/automacao/sensores">Sensores</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Instrumento Musical</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/instrumento-musical/acessorios">Acessórios</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/instrumento-musical/bateria">Bateria</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/instrumento-musical/instrumento-de-sopro">Instrumento de Sopro</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/instrumento-musical/instrumentos-de-cordas">Instrumentos de Cordas</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/instrumento-musical/instrumentos-de-teclas">Instrumentos de Teclas</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/instrumento-musical/microfone">Microfone</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/instrumento-musical/pro-audio">Pro Audio</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/instrumento-musical/saxofone">Saxofone</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/instrumento-musical/trompa">Trompa</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/instrumento-musical/violino">Violino</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Smart Home</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/smart-home/aspirador-de-po">Aspirador de Pó</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/smart-home/assistente-virtual">Assistente Virtual</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/smart-home/baba-eletronica">Babá eletrônica</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/smart-home/cameras">Câmeras</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/smart-home/campainha">Campainha</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/smart-home/controle-smart">Controle Smart</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/smart-home/fechadura-digital">Fechadura Digital</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/smart-home/hub-inteligente">Hub inteligente</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/smart-home/interruptor">Interruptor</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/smart-home/kits">Kits</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/smart-home/lampada-led">Lâmpada LED</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/smart-home/luminaria">Luminária</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/smart-home/pet-care">Pet Care</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/smart-home/plugs">Plugs</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/smart-home/robo-passa-pano">Robô Passa Pano</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/smart-home/sensor">Sensor</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/smart-home/tomada-inteligente">Tomada Inteligente</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/smart-home/video-porteiro">Video Porteiro</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Projetores</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/projetores/acessorios-para-projecao">Acessórios para Projeção</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/projetores/projetor">Projetor</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Presentes</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/presentes/brinquedos-e-jogos">Brinquedos e Jogos</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/presentes/casa">Casa e Decoração</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/presentes/escritorio">Escritório</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/presentes/pessoal">Pessoal</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/presentes/porta-objetos">Porta Objetos</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Relógios</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/relogios/masculino">Masculino</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/relogios/unissex">Unissex</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Ar Condicionado e Ventilação</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/ar-condicionado-e-ventilacao/acessorios">Acessórios</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/ar-condicionado-e-ventilacao/arcondicionado">Ar Condicionado</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/ar-condicionado-e-ventilacao/cortina-de-ar">Cortina de Ar</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Bebês</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/bebes/descanso-e-diversao">Descanso e Diversão</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/bebes/para-a-mamae">Para a Mamãe</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/bebes/passeio">Passeio</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/bebes/quarto">Quarto</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Utilidades Domésticas</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/utilidades-domesticas/acessorios-para-bar">Acessórios para Bar</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/utilidades-domesticas/acessorios-para-cozinha">Acessórios para cozinha</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/utilidades-domesticas/acessorios-para-lavacao">Acessórios para lavação</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/utilidades-domesticas/aparelho-de-fondue">Aparelho de Fondue</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/utilidades-domesticas/cafeteira">Cafeteira</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/utilidades-domesticas/copos-e-tacas">Copos e Taças</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/utilidades-domesticas/escorredor-de-loucas">Escorredor de Louças</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/utilidades-domesticas/garrafa-termica">Garrafa Térmica</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/utilidades-domesticas/jarra">Jarra</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/utilidades-domesticas/kit-churrasco">Kit Churrasco</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/utilidades-domesticas/limpeza">Limpeza</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/utilidades-domesticas/panela-de-pressao">Panela de Pressão</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/utilidades-domesticas/panelas">Panelas</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/utilidades-domesticas/pipoqueira">Pipoqueira</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/utilidades-domesticas/potes">Potes</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/utilidades-domesticas/prato">Prato</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/utilidades-domesticas/talheres">Talheres</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/utilidades-domesticas/tampas-de-panela">Tampas de panela</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/utilidades-domesticas/tapioqueira">Tapioqueira</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Decoração</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/decoracao/casa-e-decoracao">Casa e Decoração</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/decoracao/porta-objetos">Porta Objetos</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">Móveis</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/moveis/aparadores">Aparadores</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/moveis/armario">Armário</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/moveis/armario-de-cozinha">Armário de Cozinha</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/moveis/balcao">Balcão</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/moveis/banquetas">Banquetas</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/moveis/cabeceira">Cabeceira</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/moveis/cadeiras">Cadeiras</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/moveis/cama">Cama </a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/moveis/colchao">Colchão</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/moveis/comoda">Cômoda</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/moveis/conjunto-sala-de-jantar">Conjunto Sala de Jantar</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/moveis/criado-muda-mesa-de-cabeceira">Criado Muda/ Mesa de cabeceira</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/moveis/cristaleiras-e-bar">Cristaleiras e Bar</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/moveis/escrivaninha">Escrivaninha</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/moveis/estante">Estante</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/moveis/gaveteiro">Gaveteiro</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/moveis/guarda-roupa">Guarda roupa</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/moveis/kit">Kit</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/moveis/kit-gamer">Kit Gamer</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/moveis/mesa-de-cabeceira">Mesa de Cabeceira</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/moveis/mesa-de-centro">Mesa de Centro</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/moveis/mesa-de-jantar">Mesa de Jantar</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/moveis/nichos">Nichos</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/moveis/painel">Painel</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/moveis/penteadeira">Penteadeira</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/moveis/poltrona">Poltrona</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/moveis/puffs">Puffs</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/moveis/rack">Rack</a></p><p class="bot-categoria"><a href="https://www.kabum.com.br/moveis/sofa">Sofá</a></p></div>
+                  <div class="icone_categoria">
+                    <div class="h2titcategoria">TecMasters</div>
+                  </div>
+                  <div class="texto_categoria">
+              <p class="bot-categoria"><a href="https://www.kabum.com.br/tecmasters/servicos">Serviços</a></p></div>
+            <div id="menu_left_base">
+            <img src="https://static.kabum.com.br/conteudo/temas/001/imagens/menu_vertical/base_tab_menu.gif" width="198" height="6" /></div>
+          </div>
+        </div>
+        <!--FIM MENU CATEGORIAS LATERAL --></aside>
+                            <div id="BlocoConteudo">
+                            <aside id="BlocoKbar"></aside>
+                            <div>
+                    <div class="box_page">
+                    
+  <div id="listagem-produtos"></div>
+  <div id="listagem-conteudo"></div>
+
+                    </div>
+                            </div>
+                    </div>
+                    <div style="clear:both;"></div>
+              </div>
+              <div id="BlocoNovidades"></div>
+          </article>
+        </main>
+        <div id="BlocoFechamento"><img src="https://static.kabum.com.br/conteudo/temas/001/imagens/home/base_meio.png" /></div>
+        <footer id="BlocoRodape">
+          <div id="footer">
+            <div id="footer_meio">
+              <div id="footer_ebit">
+                <div>
+                  <a href="#" onclick="window.open('https://www.ebit.com.br/kabum', 'ebit_medalha','top=30,left=30,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,width=1100,height=600'); return false"><img src="https://static.kabum.com.br/conteudo/temas/001/imagens/rodape/selo_ebit_kabum.gif" border="0" style="margin-top:8px;" width="87" height="95"></a>
+                </div>
+                <div style="margin-top: 2px;"> 
+                  <a id="seloEconfy" href="https://www.compreconfie.com.br/103388" target="_blank" datanoop="redir(this.href);"><img src="https://selo.compreconfie.com.br/reputation/103388.png"></a>  
+                  <script type="text/javascript" id="getData" src="https://selo.compreconfie.com.br/scripts/getData.js?sellerId=103388"></script>
+                </div>
+              </div>
+                <div class="area_endereco">
+          <div class="box_pagamento">
+                    <div class="selo_pagamento">
+                      <table width="102" height="60" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td width="35"><img src="https://static.kabum.com.br/conteudo/temas/001/imagens/rodape/icone_formas_pagamento_.png" alt="FORMAS DE PAGAMENTO" width="115" height="39"></td>
+                          <td width="67"></td>
+                          </tr>
+                        </table>
+                    </div>
+                            <ul>
+                      <p>Crédito</p>
+                      <li>
+                            <div><img src="https://static.kabum.com.br/conteudo/temas/001/imagens/rodape/band_visa.png" title="Visa" border="0" style="width: 46px; height: 16px; margin-top: 8px; margin-bottom: 5px;"/></div>
+                            <div><img src="https://static.kabum.com.br/conteudo/temas/001/imagens/rodape/band_diners.png" title="Diners Club" border="0" width="46" height="28"/></div>
+                      </li>
+                      <li>
+
+                            <div><img src="https://static.kabum.com.br/conteudo/temas/001/imagens/rodape/band_master.png" title="MasterCard" border="0" width="46" height="28"/></div>
+                            <div><img src="https://static.kabum.com.br/conteudo/temas/001/imagens/rodape/band_hiper.png" title="Hipercard" border="0" width="46" height="28"/></div>
+                      </li>
+                      <li>
+                                    <div><img src="https://static.kabum.com.br/conteudo/temas/001/imagens/rodape/band_american.png" title="American Express" border="0" width="46" height="28"/></div>
+                                    <div><img src="https://static.kabum.com.br/conteudo/temas/001/imagens/rodape/band_elo.png" title="Elo" border="0" width="46" height="28"/></div>
+                                </li>
+                    </ul>
+                    <!--<ul>
+                      <p>Débito</p>
+                              <li><img src="https://static.kabum.com.br/conteudo/temas/001/imagens/rodape/band_itau.png" title="Débito Itau" border="0" width="46" height="28"/></li>
+                              <li><img src="https://static.kabum.com.br/conteudo/temas/001/imagens/rodape/band_bb.png" title="Débito Banco do Brasil" border="0" width="46" height="28"/></li>
+                    </ul>-->
+                    <ul>
+                      <p>PIX</p>
+                      <li><img src="https://static.kabum.com.br/conteudo/temas/001/imagens/rodape/band_pix.png" title="PIX" border="0" width="46" height="28"/></li>
+                    </ul>
+
+                            <ul><p>Boleto</p>
+                      <li><img src="https://static.kabum.com.br/conteudo/temas/001/imagens/rodape/band_boleto.png" title="Boleto" border="0" width="46" height="28"/></li>
+                    </ul>
+                            <!--<ul><p>Carteira Eletrônica</p>
+                      <li><img src="https://static.kabum.com.br/conteudo/temas/001/imagens/rodape/band_paypal.png" title="Boleto" border="0" width="46" height="28"/></li>
+                    </ul>-->
+                  </div>
+          <div class="box_certificacoes">
+                    <div class="selo_seguranca">
+                      <table width="102" height="60" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td width="35"><img src="https://static.kabum.com.br/conteudo/temas/001/imagens/rodape/icone_formas_pagamento.png" alt="SEGURANÇA E CERTIFICAÇÕES" width="115" height="39"></td>
+                          <td width="67"></td>
+                          </tr>
+                        </table>
+                    </div>
+                      <ul>
+                            <li>
+                                <div id="armored_website">
+                                    <param id="aw_preload" value="true" />
+                                    <param id="aw_use_cdn" value="true" />
+                                </div>
+                            </li>
+                        <li><img src="https://static.kabum.com.br/conteudo/temas/001/imagens/rodape/selo_empresabuscape.png" width="54" height="53"/></li>
+                        <li><a href="https://transparencyreport.google.com/safe-browsing/search?url=kabum.com.br&amp;hl=pt-PT" target="_blank"><img src="https://static.kabum.com.br/conteudo/temas/001/imagens/rodape/selo-google-site-seguro.png" alt="GOOGLE SITE SEGURO" width="130" height="46"></a></li>
+                        <li><div id="reputation-ra"><script type="text/javascript" charset="UTF-8" id="ra-embed-reputation" src="https://s3.amazonaws.com/raichu-beta/selos/bundle.js" data-id="NzI1NDprYWJ1bQ==" data-target="reputation-ra" data-model="2"></script></div></li>
+                      </ul>
+              </div><!--box_pagamento-->
+                  </div><!--area_endereco-->
+                <nav class="area_news">
+                  <div class="colunas_menu">
+                    <ul>
+                      <li style="line-height:15px; height:260px;">
+                        <h4>DEPARTAMENTOS</h4>
+                  <div style="font-size:13px; line-height:18px; margin-top:5px;">
+                    <p><a href="https://www.kabum.com.br/ar-condicionado-e-ventilacao/arcondicionado" target="_top">Ar Condicionado e Ventilação</a></p>
+                    <p><a href="https://www.kabum.com.br/audio/toca-discos-e-vitrolas" target="_top">Áudio</a></p>
+                    <p><a href="https://www.kabum.com.br/automacao/baterias" target="_top">Automação</a></p>
+                    <p><a href="https://www.kabum.com.br/automotivo/som-automotivo" target="_top">Automotivo</a></p>
+                    <p><a href="https://www.kabum.com.br/bebes/passeio" target="_top">Bebês</a></p>
+                    <p><a href="https://www.kabum.com.br/beleza-saude/aparador-de-pelos" target="_top">Beleza & Saúde</a></p>
+                    <p><a href="https://www.kabum.com.br/beneficio/prime" target="_top">Beneficio</a></p>
+                    <p><a href="https://www.kabum.com.br/brinquedos/bonecos" target="_top">Brinquedos</a></p>
+                    <p><a href="https://www.kabum.com.br/cadeiras/cadeiras-gamer" target="_top">Cadeiras</a></p>
+                    <p><a href="https://www.kabum.com.br/cameras-digitais/cameras-digitais" target="_top">Câmeras Digitais</a></p>
+                    <p><a href="https://www.kabum.com.br/casa-jardim/aparador-de-grama-" target="_top">Casa & Jardim</a></p>
+                    <p><a href="https://www.kabum.com.br/celular-telefone/smartphones" target="_top">Celular & Telefone</a></p>
+                    <p><a href="https://www.kabum.com.br/computadores/computadores" target="_top">Computadores</a></p>
+                  </div>
+                      </li>
+                                                        <li style="line-height:15px; height:250px;">
+                        <h4>DEPARTAMENTOS</h4>
+                  <div style="font-size:13px; line-height:18px; margin-top:5px;">
+                    <p><a href="https://www.kabum.com.br/conectividade/access-point" target="_top">Conectividade</a></p>
+                    <p><a href="https://www.kabum.com.br/decoracao/casa-e-decoracao" target="_top">Decoração</a></p>
+                    <p><a href="https://www.kabum.com.br/eletrodomesticos/maquina-de-refrigerante" target="_top">Eletrodomésticos</a></p>
+                    <p><a href="https://www.kabum.com.br/eletroportateis/aquecedor" target="_top">Eletroportáteis</a></p>
+                    <p><a href="https://www.kabum.com.br/esporte-e-lazer/lutas-artes-marciais" target="_top">Esporte e Lazer</a></p>
+                    <p><a href="https://www.kabum.com.br/ferramentas/manuais" target="_top">Ferramentas</a></p>
+                    <p><a href="https://www.kabum.com.br/gamer/playstation-3" target="_top">Gamer</a></p>
+                  </div>
+                                            <br />
+                <h4>MINHA CONTA</h4>
+                  <div style="font-size:13px; line-height:18px; margin-top:5px;">
+                                                <p><a href="https://www.kabum.com.br/cgi-local/site/minha_conta/minha_conta.cgi?link=08" target="_top">» Meus Pedidos</a></p>
+                                                <p><a href="https://www.kabum.com.br/cgi-local/site/minha_conta/minha_conta.cgi?link=12" target="_top">» Direito de Arrependimento</a></p>
+                                                <p><a href="https://www.kabum.com.br/cgi-local/site/minha_conta/minha_conta.cgi?link=05" target="_top">» Cadastrar / Remover Newsletter</a></p>
+                  </div>
+                  <br/>
+                <h4>FAQ</h4>
+                      <div style="font-size:13px; line-height:18px; margin-top:5px;">
+                          <p><a href="https://www.kabum.com.br/cgi-local/site/faq/faq.cgi" target="_top">» FAQ - Orientações </a></p>
+                      </div>
+                      <br/>
+                <h4>COMPRA SEGURA</h4>
+                      <div style="font-size:13px; line-height:18px; margin-top:5px;">
+                          <p><a href="https://www.kabum.com.br/cgi-local/site/compra_segura/compra_segura.cgi" target="_top">» Compra Segura - Orientações </a></p>
+                          <p><a href="https://www.kabum.com.br/hotsite/comprasegura/" target="_blank">» Garantia Estendida /<br/><span style="margin-left: 10px;">Roubo + Quebra Acidental</span></a></p>
+                      </div>
+
+                      </li>
+                      <li>
+                      <h4>INSTITUCIONAL</h4>
+                            <div style="font-size:13px; line-height:18px; margin-top:5px;">
+                            <p><a href="https://www.kabum.com.br/cgi-local/site/institucional/sobre.cgi" target="_top">» Sobre o KaBuM!</a></p>
+                            <p><a href="https://www.kabum.com.br/cgi-local/site/institucional/politicas.cgi" target="_top">» Políticas do Site e Marketplace</a></p>
+                            <p><a href="https://www.kabum.com.br/cgi-local/site/institucional/politica_privacidade.cgi" target="_top">» Política de Privacidade</a></p>
+                            <p><a href="https://www.kabum.com.br/cgi-local/site/institucional/sobre.cgi?ancora=premios">» Prêmios</a></p>
+                            <p><a href="https://jobs.kenoby.com/kabum" target="_blank">» Trabalhe Conosco</a></p>
+                            <p><a onclick="ga('send', 'event', 'CodDefesaCons', 'click')" href="https://www.kabum.com.br/download/cdc/CODIGO_DE_DEFESA_DO_CONSUMIDOR.zip" target="_self">» Codigo de defesa do consumidor</a></p>
+                            <p><a href="https://static.kabum.com.br/conteudo/documentos/institucional/codigo-de-conduta-v3.pdf" target="_blank">» Código de Ética e Conduta</a></p>
+                            <p><a href="https://www.kabum.com.br/hotsite/blackfriday/" target="_blank">» Black Friday</a></p>
+                            <p><a href="https://www.kabum.com.br/hotsite/mega-maio" target="_blank">» Mega Maio</a></p>
+                            <p><a href="https://www.kabum.com.br/hotsite/julhogamer" target="_blank">» Julho Gamer</a></p>
+                            <p><a href="https://www.kabum.com.br/hotsite/pix/ " target="_blank">» PIX</a></p>
+                  </div>
+                <br />
+                              <h4>ATENDIMENTO</h4>
+                <div style="font-size:12px; margin-top:8px;">
+                  <p>
+                      Horário de atendimento: 07:00 às 18:00 de segunda à sábado, horário de Brasília (exceto feriados).<br />
+                      Endereço: Rua Carlos Gomes, 1321 - 9º Andar <br> Centro - Limeira (SP) - CEP: 13480-010<br />
+                      Central SAC: (19) 2114-4444<br>
+                      E-mail: <a href="mailto:faleconosco@kabum.com.br">faleconosco@kabum.com.br</a>
+                      Recepção de Fax: (19) 2114-4412
+                  </p>
+                </div>
+                              </li>
+                    </ul>
+                  </div>
+                  <div class="texto_base" style="margin-top: 0px; padding-top: 5px;">
+                   KaBuM!® é uma marca registrada de KABUM COMÉRCIO ELETRÔNICO S/A | CNPJ: 05.570.714/0001-59 | Todos os direitos reservados. Os preços anunciados neste site ou via e-mail
+                      promocional podem ser alterados sem prévio aviso. O KaBuM! não é
+                      responsável por erros descritivos. As fotos contidas nesta página são
+                      meramente ilustrativas do produto e podem variar de acordo com o
+                      fornecedor/lote do fabricante. Este site trabalha 100% em criptografia SSL.<br />
+                      <a href="https://www.kabum.com.br/cgi-local/site/institucional/politicas.cgi" target="_top"><b>Clique aqui e veja as políticas de nossa empresa </b></a><br />
+                  </div>
+                </nav>
+                    <div class="area_facebook" style="height:405px;">
+                    <iframe id="kabum_facebook_likes" src='' scrolling="no" frameborder="0" style="border:none !important; overflow:hidden; width:240px; height:397px;" allowtransparency="true"></iframe><br>
+                </div>
+            </div>
+          </div>
+          <script type="text/javascript">
+            $(document).ready(function() {
+              // Facebook Likes
+              var url_facebook = 'https://www.facebook.com/plugins/likebox.php?href=https://www.facebook.com%2Fkabum.com.br&width=240&height=405&colorscheme=light&show_faces=true&border_color=%23ffffff&stream=false&header=false&appId=1719850761605142';
+              $('#kabum_facebook_likes').attr('src', url_facebook);
+            });
+          </script>
+      
+          </footer>
+        <div id="BlocoFechamento"><img src="https://static.kabum.com.br/conteudo/temas/001/imagens/home/base_meio.png" /></div>
+        </div>
+        <br>
+        <br>
+        
+    <!-- version 2.0 -->
+    <script type='text/javascript'>
+        const isBusca = true
+        const stringRef = 'ssd 500GB'
+        const listagemDados = [{"id_seller":0,"fabricante":{"nome":"WD","codigo":16,"img":"https://images4.kabum.com.br/produtos/fabricantes/logo-wd.jpg"},"brinde":{"codigo":null,"img":null},"preco":552.82,"porcentagem_desconto":15,"nome_seller":"KaBuM!","preco_desconto":469.9,"avaliacao_nota":5,"img":"https://images4.kabum.com.br/produtos/fotos/110444/ssd-wd-blue-sn550-500gb-m-2-pcie-nvme-leituras-2400mb-s-e-gravacoes-1750mb-s-wds500g2b0c_1581684013_m.jpg","preco_desconto_prime":0,"offer_id":null,"porcentagem_desconto_prime":0,"tem_frete_gratis":false,"nome":"SSD WD Blue SN550, 500GB, M.2, PCIe, NVMe, Leituras: 2400Mb/s e Gravações: 1750Mb/s - WDS500G2B0C","marketplace":false,"avaliacao_numero":107,"frete_gratis_somente_prime":false,"alt":110444,"menu":"Hardware/SSD/M.2","preco_antigo":670.47,"disponibilidade":true,"preco_prime":0,"link_descricao":"/produto/110444/ssd-wd-blue-sn550-500gb-m-2-pcie-nvme-leituras-2400mb-s-e-grava-es-1750mb-s-wds500g2b0c","is_openbox":false,"oferta":{"oferta_desconto":17,"quantidade":215,"data_inicio":1624618800,"logar":0,"codigo":"388dbd805db0a87d16a56a254418db4c2fd38457","evento":"Upgrade PC","evento_codigo":33,"data_fim":1625137200},"codigo":110444},{"id_seller":0,"fabricante":{"nome":"Kingston","codigo":50,"img":"https://images8.kabum.com.br/produtos/fabricantes/logo-kingston.jpg"},"brinde":{"codigo":null,"img":null},"preco":588.12,"porcentagem_desconto":15,"nome_seller":"KaBuM!","preco_desconto":499.9,"avaliacao_nota":5,"img":"https://images8.kabum.com.br/produtos/fotos/155408/ssd-kingston-500gb-nv1-m-2-2280-nvme-leitura-2100mb-s-e-gravacao-1700mb-s-snvs-500g_1619533362_m.jpg","preco_desconto_prime":467.9,"offer_id":null,"porcentagem_desconto_prime":28,"tem_frete_gratis":false,"nome":"SSD Kingston NV1 500GB,M.2 2280 NVMe, Leitura: 2100MB/s e Gravação: 1700MB/s - SNVS/500G","marketplace":false,"avaliacao_numero":22,"frete_gratis_somente_prime":false,"alt":155408,"menu":"Hardware/SSD/M.2","preco_antigo":654,"disponibilidade":true,"preco_prime":550.47,"link_descricao":"/produto/155408/ssd-kingston-nv1-500gb-m-2-2280-nvme-leitura-2100mb-s-e-grava-o-1700mb-s-snvs-500g","is_openbox":false,"oferta":{"oferta_desconto":10,"quantidade":33,"data_inicio":1624881360,"logar":0,"codigo":"3a5d727601d3c4f8409cce0a7c80aea0fe8cb331","evento":"Upgrade PC","evento_codigo":33,"data_fim":1625137200},"codigo":155408},{"id_seller":0,"fabricante":{"nome":"WD","codigo":16,"img":"https://images4.kabum.com.br/produtos/fabricantes/logo-wd.jpg"},"brinde":{"codigo":null,"img":null},"preco":552.82,"porcentagem_desconto":15,"nome_seller":"KaBuM!","preco_desconto":469.9,"avaliacao_nota":5,"img":"https://images4.kabum.com.br/produtos/fotos/95874/95874_1523014871_index_m.jpg","preco_desconto_prime":499.9,"offer_id":null,"porcentagem_desconto_prime":0,"tem_frete_gratis":false,"nome":"SSD WD Blue, 500GB, SATA, Leitura 560MB/s, Gravação 530MB/s - WDS500G2B0A","marketplace":false,"avaliacao_numero":184,"frete_gratis_somente_prime":false,"alt":95874,"menu":"Hardware/SATA/SSD/500 GB","preco_antigo":705.76,"disponibilidade":true,"preco_prime":0,"link_descricao":"/produto/95874/ssd-wd-blue-500gb-sata-leitura-560mb-s-grava-o-530mb-s-wds500g2b0a","is_openbox":false,"oferta":{"oferta_desconto":21,"quantidade":34,"data_inicio":1624619760,"logar":0,"codigo":"a8446437ddf41d3e84a711ad2905b344a984cf56","evento":"Upgrade PC","evento_codigo":33,"data_fim":1625137200},"codigo":95874},{"id_seller":0,"fabricante":{"nome":"Kingston","codigo":50,"img":"https://images4.kabum.com.br/produtos/fabricantes/logo-kingston.jpg"},"brinde":{"codigo":null,"img":null},"preco":658.71,"porcentagem_desconto":15,"nome_seller":"KaBuM!","preco_desconto":559.9,"avaliacao_nota":5,"img":"https://images4.kabum.com.br/produtos/fotos/114414/ssd-kingston-kc2500-500gb-m-2-nvme-leitura-3500mb-s-gravacao-2500mb-s-skc2500m8-500g_1592312163_m.jpg","preco_desconto_prime":0,"offer_id":null,"porcentagem_desconto_prime":0,"tem_frete_gratis":false,"nome":"SSD Kingston KC2500, 500GB, M.2 NVMe, Leitura 3500MB/s, Gravação 2500MB/s - SKC2500M8/500G","marketplace":false,"avaliacao_numero":4,"frete_gratis_somente_prime":false,"alt":114414,"menu":"Hardware/SSD/M.2","preco_antigo":694,"disponibilidade":true,"preco_prime":0,"link_descricao":"/produto/114414/ssd-kingston-kc2500-500gb-m-2-nvme-leitura-3500mb-s-grava-o-2500mb-s-skc2500m8-500g","is_openbox":false,"oferta":{},"codigo":114414},{"id_seller":0,"fabricante":{"nome":"WD_Black","codigo":2518,"img":"https://images0.kabum.com.br/produtos/fabricantes/logo-wd_black.jpg"},"brinde":{"codigo":null,"img":null},"preco":776.35,"porcentagem_desconto":15,"nome_seller":"KaBuM!","preco_desconto":659.9,"avaliacao_nota":5,"img":"https://images0.kabum.com.br/produtos/fotos/101250/101250_1557175355_index_m.jpg","preco_desconto_prime":0,"offer_id":null,"porcentagem_desconto_prime":0,"tem_frete_gratis":false,"nome":"SSD WD Black SN750 Heatsink, 500GB, M.2 NVMe, Leitura 3470MB/s, Gravação 2600MB/s - WDS500G3XHC","marketplace":false,"avaliacao_numero":48,"frete_gratis_somente_prime":false,"alt":101250,"menu":"Hardware/SSD/M.2","preco_antigo":823.41,"disponibilidade":true,"preco_prime":0,"link_descricao":"/produto/101250/ssd-wd-black-sn750-heatsink-500gb-m-2-nvme-leitura-3470mb-s-grava-o-2600mb-s-wds500g3xhc","is_openbox":false,"oferta":{"oferta_desconto":5,"quantidade":111,"data_inicio":1624619760,"logar":0,"codigo":"dcb9547facad604403c617d35a947892382d7d9c","evento":"Upgrade PC","evento_codigo":33,"data_fim":1625137200},"codigo":101250},{"id_seller":0,"fabricante":{"nome":"WD","codigo":16,"img":"https://images8.kabum.com.br/produtos/fabricantes/logo-wd.jpg"},"brinde":{"codigo":null,"img":null},"preco":623.41,"porcentagem_desconto":15,"nome_seller":"KaBuM!","preco_desconto":529.9,"avaliacao_nota":5,"img":"https://images8.kabum.com.br/produtos/fotos/95878/95878_1523018304_index_m.jpg","preco_desconto_prime":0,"offer_id":null,"porcentagem_desconto_prime":0,"tem_frete_gratis":false,"nome":"SSD WD Blue, 500GB, M.2, Leitura 560MB/s, Gravação 530MB/s - WDS500G2B0B","marketplace":false,"avaliacao_numero":64,"frete_gratis_somente_prime":false,"alt":95878,"menu":"Hardware/SSD/M.2","preco_antigo":695.18,"disponibilidade":true,"preco_prime":0,"link_descricao":"/produto/95878/ssd-wd-blue-500gb-m-2-leitura-560mb-s-grava-o-530mb-s-wds500g2b0b","is_openbox":true,"oferta":{"oferta_desconto":10,"quantidade":170,"data_inicio":1624619760,"logar":0,"codigo":"fb9c4bb992784e1b941874a516c9df09604f5c6e","evento":"Upgrade PC","evento_codigo":33,"data_fim":1625137200},"codigo":95878},{"id_seller":0,"fabricante":{"nome":"Pny","codigo":324,"img":"https://images9.kabum.com.br/produtos/fabricantes/logo-pny.jpg"},"brinde":{"codigo":null,"img":null},"preco":623.41,"porcentagem_desconto":15,"nome_seller":"KaBuM!","preco_desconto":529.9,"avaliacao_nota":5,"img":"https://images9.kabum.com.br/produtos/fotos/115239/ssd-pny-cs2130-500gb-m-2-nvme-leituras-3500mb-s-e-gravacoes-925mb-s-m280cs2130-500-rb_1596639903_m.jpg","preco_desconto_prime":0,"offer_id":null,"porcentagem_desconto_prime":0,"tem_frete_gratis":false,"nome":"SSD PNY CS2130, 500GB, M.2 NVMe, Leituras: 3500Mb/s e Gravações: 925Mb/s - M280CS2130-500-RB","marketplace":false,"avaliacao_numero":6,"frete_gratis_somente_prime":false,"alt":115239,"menu":"Hardware/SSD/M.2","preco_antigo":0,"disponibilidade":true,"preco_prime":0,"link_descricao":"/produto/115239/ssd-pny-cs2130-500gb-m-2-nvme-leituras-3500mb-s-e-grava-es-925mb-s-m280cs2130-500-rb","is_openbox":false,"oferta":{},"codigo":115239},{"id_seller":0,"fabricante":{"nome":"Adata","codigo":171,"img":"https://images4.kabum.com.br/produtos/fabricantes/logo-adata.jpg"},"brinde":{"codigo":null,"img":null},"preco":552.82,"porcentagem_desconto":15,"nome_seller":"KaBuM!","preco_desconto":469.9,"avaliacao_nota":5,"img":"https://images4.kabum.com.br/produtos/fotos/113664/ssd-adata-swordfish-500gb-m-2-pcie-leituras-1800mb-s-e-gravacoes-1200mb-s-aswordfish-500g-c_1592316552_m.jpg","preco_desconto_prime":0,"offer_id":null,"porcentagem_desconto_prime":0,"tem_frete_gratis":false,"nome":"SSD Adata Swordfish, 500GB, M.2 PCIe, Leituras: 1800MB/s e Gravações: 1200MB/s - ASWORDFISH-500G-C","marketplace":false,"avaliacao_numero":68,"frete_gratis_somente_prime":false,"alt":113664,"menu":"Hardware/SSD/M.2","preco_antigo":657.53,"disponibilidade":true,"preco_prime":0,"link_descricao":"/produto/113664/ssd-adata-swordfish-500gb-m-2-pcie-leituras-1800mb-s-e-grava-es-1200mb-s-aswordfish-500g-c","is_openbox":false,"oferta":{"oferta_desconto":15,"quantidade":100,"data_inicio":1624888980,"logar":0,"codigo":"f5f2e754fb7bcad759ac5f1279fcdcca94efbe57","evento":"Upgrade PC","evento_codigo":33,"data_fim":1625137200},"codigo":113664},{"id_seller":0,"fabricante":{"nome":"Seagate","codigo":10,"img":"https://images4.kabum.com.br/produtos/fabricantes/logo-seagate.jpg"},"brinde":{"codigo":null,"img":null},"preco":846.94,"porcentagem_desconto":15,"nome_seller":"KaBuM!","preco_desconto":719.9,"avaliacao_nota":0,"img":"https://images4.kabum.com.br/produtos/fotos/129144/ssd-seagate-ironwolf-500gb-sata-leituras-560mb-s-e-gravacoes-540mb-s-za500nm1a002_1601929994_m.jpg","preco_desconto_prime":0,"offer_id":null,"porcentagem_desconto_prime":0,"tem_frete_gratis":false,"nome":"SSD Seagate IronWolf, 500GB, SATA, Leituras: 560MB/s e Gravações: 540MB/s - ZA500NM1A002","marketplace":false,"avaliacao_numero":0,"frete_gratis_somente_prime":false,"alt":129144,"menu":"Hardware/SATA/SSD/500 GB","preco_antigo":905.76,"disponibilidade":true,"preco_prime":0,"link_descricao":"/produto/129144/ssd-seagate-ironwolf-500gb-sata-leituras-560mb-s-e-grava-es-540mb-s-za500nm1a002","is_openbox":false,"oferta":{"oferta_desconto":6,"quantidade":14,"data_inicio":1624619760,"logar":0,"codigo":"c2cc0b83c58f23b0696e1d0a78e88e7f676487ef","evento":"Upgrade PC","evento_codigo":33,"data_fim":1625137200},"codigo":129144},{"id_seller":0,"fabricante":{"nome":"Aorus","codigo":2350,"img":"https://images9.kabum.com.br/produtos/fabricantes/logo-aorus.jpg"},"brinde":{"codigo":null,"img":null},"preco":1199.88,"porcentagem_desconto":15,"nome_seller":"KaBuM!","preco_desconto":1019.9,"avaliacao_nota":5,"img":"https://images9.kabum.com.br/produtos/fotos/127779/ssd-aorus-gen4-500gb-m-2-nvme-leituras-5000mb-s-e-gravacoes-2500mb-s-gp-ag4500g_1599764886_m.jpg","preco_desconto_prime":0,"offer_id":null,"porcentagem_desconto_prime":0,"tem_frete_gratis":false,"nome":"SSD Aorus Gen4, 500GB, M.2, NVMe, Leituras: 5000MB/s e Gravações: 2500MB/s - GP-AG4500G","marketplace":false,"avaliacao_numero":20,"frete_gratis_somente_prime":false,"alt":127779,"menu":"Hardware/SSD/M.2","preco_antigo":1282.24,"disponibilidade":true,"preco_prime":0,"link_descricao":"/produto/127779/ssd-aorus-gen4-500gb-m-2-nvme-leituras-5000mb-s-e-grava-es-2500mb-s-gp-ag4500g","is_openbox":false,"oferta":{"oferta_desconto":6,"quantidade":27,"data_inicio":1624619760,"logar":0,"codigo":"1cc214eb830203627f4e9aae1c636e24125d1e2f","evento":"Upgrade PC","evento_codigo":33,"data_fim":1625137200},"codigo":127779},{"id_seller":0,"fabricante":{"nome":"WD","codigo":16,"img":"https://images6.kabum.com.br/produtos/fabricantes/logo-wd.jpg"},"brinde":{"codigo":null,"img":null},"preco":846.94,"porcentagem_desconto":15,"nome_seller":"KaBuM!","preco_desconto":719.9,"avaliacao_nota":0,"img":"https://images6.kabum.com.br/produtos/fotos/120016/hd-western-digital-externo-portatil-500gb-usb-cinza-wdbagf5000agy-wesn_1598906181_m.jpg","preco_desconto_prime":0,"offer_id":null,"porcentagem_desconto_prime":0,"tem_frete_gratis":false,"nome":"SSD Externo WD Portátil, My Passaport, 500GB, USB, Cinza - WDBAGF5000AGY-WESN","marketplace":false,"avaliacao_numero":0,"frete_gratis_somente_prime":false,"alt":120016,"menu":"Hardware/SSD/Externo","preco_antigo":776.35,"disponibilidade":true,"preco_prime":0,"link_descricao":"/produto/120016/ssd-externo-wd-port-til-my-passaport-500gb-usb-cinza-wdbagf5000agy-wesn","is_openbox":false,"oferta":{},"codigo":120016},{"id_seller":0,"fabricante":{"nome":"WD_Black","codigo":2518,"img":"https://images9.kabum.com.br/produtos/fabricantes/logo-wd_black.jpg"},"brinde":{"codigo":null,"img":null},"preco":1646.94,"porcentagem_desconto":15,"nome_seller":"KaBuM!","preco_desconto":1399.9,"avaliacao_nota":0,"img":"https://images9.kabum.com.br/produtos/fotos/151449/ssd-wd-black-sn850-500gb-nvme-pcie-gen4-hotsink-leitura-7000mb-s-e-gravacao-4100mb-s-wds500g1xhe_1615401140_m.jpg","preco_desconto_prime":0,"offer_id":null,"porcentagem_desconto_prime":0,"tem_frete_gratis":false,"nome":"SSD WD Black SN850 500GB NVMe, PCIe Gen4, Hotsink, Leitura 7000MB/s e Gravação 4100MB/s - WDS500G1XHE","marketplace":false,"avaliacao_numero":0,"frete_gratis_somente_prime":false,"alt":151449,"menu":"Hardware/SSD/M.2","preco_antigo":1764.59,"disponibilidade":true,"preco_prime":0,"link_descricao":"/produto/151449/ssd-wd-black-sn850-500gb-nvme-pcie-gen4-hotsink-leitura-7000mb-s-e-grava-o-4100mb-s-wds500g1xhe","is_openbox":false,"oferta":{"oferta_desconto":6,"quantidade":9,"data_inicio":1624619760,"logar":0,"codigo":"fb048bef4d54b58fb1a0e854aa4134be668489a9","evento":"Upgrade PC","evento_codigo":33,"data_fim":1625137200},"codigo":151449},{"id_seller":0,"fabricante":{"nome":"Samsung","codigo":12,"img":"https://images8.kabum.com.br/produtos/fabricantes/logo-samsung.jpg"},"brinde":{"codigo":null,"img":null},"preco":835.18,"porcentagem_desconto":15,"nome_seller":"KaBuM!","preco_desconto":709.9,"avaliacao_nota":5,"img":"https://images8.kabum.com.br/produtos/fotos/100128/100128_1549310176_index_m.jpg","preco_desconto_prime":0,"offer_id":null,"porcentagem_desconto_prime":0,"tem_frete_gratis":false,"nome":"SSD Samsung 970 EVO Plus 500GB, M.2 NVMe, Leitura 3500MB/s, Gravação 3200MB/s - MZ-V7S500B/AM","marketplace":false,"avaliacao_numero":25,"frete_gratis_somente_prime":false,"alt":100128,"menu":"Hardware/SSD/M.2","preco_antigo":1011.65,"disponibilidade":true,"preco_prime":0,"link_descricao":"/produto/100128/ssd-samsung-970-evo-plus-500gb-m-2-nvme-leitura-3500mb-s-grava-o-3200mb-s-mz-v7s500b-am","is_openbox":false,"oferta":{"oferta_desconto":17,"quantidade":147,"data_inicio":1624888980,"logar":0,"codigo":"b985dc5103ac1187a38a603a7a083f30bbf4a024","evento":"Upgrade PC","evento_codigo":33,"data_fim":1625137200},"codigo":100128},{"id_seller":0,"fabricante":{"nome":"Concórdia Informática","codigo":2783,"img":"https://images3.kabum.com.br/produtos/fabricantes/logo-concordia-informatica.jpg"},"brinde":{"codigo":null,"img":null},"preco":5578.84,"porcentagem_desconto":5,"nome_seller":"KaBuM!","preco_desconto":5299.9,"avaliacao_nota":0,"img":"https://images3.kabum.com.br/produtos/fotos/157433/pc-gamer-concordia-glass-i5-9400f-8gb-ddr4-ssd-240gb-hd-500gb-1050-ti-4gb-fonte-500w-linux-40550_1622121091_m.jpg","preco_desconto_prime":0,"offer_id":null,"porcentagem_desconto_prime":0,"tem_frete_gratis":false,"nome":"PC Gamer Concórdia Glass i5 9400F, 8GB DDR4, SSD 240GB, HD 500GB, 1050 TI 4GB, Fonte 500W, Linux - 40550","marketplace":false,"avaliacao_numero":0,"frete_gratis_somente_prime":false,"alt":157433,"menu":"Computadores/Computadores Gamers/Com Processador Intel","preco_antigo":6526.21,"disponibilidade":true,"preco_prime":0,"link_descricao":"/produto/157433/pc-gamer-conc-rdia-glass-i5-9400f-8gb-ddr4-ssd-240gb-hd-500gb-1050-ti-4gb-fonte-500w-linux-40550","is_openbox":false,"oferta":{"oferta_desconto":14,"quantidade":2,"data_inicio":1623668400,"logar":0,"codigo":"a3c045d722b118e0fddc53386c739aac5a116ca6","evento":"Be Tech","evento_codigo":167,"data_fim":1625137200},"codigo":157433},{"id_seller":0,"fabricante":{"nome":"Adata","codigo":171,"img":"https://images0.kabum.com.br/produtos/fabricantes/logo-adata.jpg"},"brinde":{"codigo":null,"img":null},"preco":705.76,"porcentagem_desconto":15,"nome_seller":"KaBuM!","preco_desconto":599.9,"avaliacao_nota":0,"img":"https://images0.kabum.com.br/produtos/fotos/155610/ssd-externo-adata-sc685p-500gb-usb-3-2-tipo-c-resistente-a-choque-titanium-gray-asc685p-500gu32g2-cti_1620657416_m.jpg","preco_desconto_prime":0,"offer_id":null,"porcentagem_desconto_prime":0,"tem_frete_gratis":false,"nome":"SSD Externo Adata SC685P 500GB, USB 3.2 Tipo C, Resistente à Choque, Titanium Gray - ASC685P-500GU32G2-CTI","marketplace":false,"avaliacao_numero":0,"frete_gratis_somente_prime":false,"alt":155610,"menu":"Hardware/SSD/Externo","preco_antigo":804.59,"disponibilidade":true,"preco_prime":0,"link_descricao":"/produto/155610/ssd-externo-adata-sc685p-500gb-usb-3-2-tipo-c-resistente-choque-titanium-gray-asc685p-500gu32g2-cti","is_openbox":false,"oferta":{"oferta_desconto":12,"quantidade":10,"data_inicio":1624619760,"logar":0,"codigo":"801cd135c8f40b256da2a64c9934c5294d9329b6","evento":"Upgrade PC","evento_codigo":33,"data_fim":1625137200},"codigo":155610},{"id_seller":0,"fabricante":{"nome":"Adata","codigo":171,"img":"https://images4.kabum.com.br/produtos/fabricantes/logo-adata.jpg"},"brinde":{"codigo":null,"img":null},"preco":623.41,"porcentagem_desconto":15,"nome_seller":"KaBuM!","preco_desconto":529.9,"avaliacao_nota":0,"img":"https://images4.kabum.com.br/produtos/fotos/155614/ssd-externo-adata-sc685-500gb-usb-3-2-tipo-c-resistente-a-choque-preto-asc685-500gu32g2-cbk_1620659750_m.jpg","preco_desconto_prime":0,"offer_id":null,"porcentagem_desconto_prime":0,"tem_frete_gratis":false,"nome":"SSD Externo Adata SC685 500GB, USB 3.2 Tipo C, Resistente à Choque, Preto - ASC685-500GU32G2-CBK","marketplace":false,"avaliacao_numero":0,"frete_gratis_somente_prime":false,"alt":155614,"menu":"Hardware/SSD/Externo","preco_antigo":790.47,"disponibilidade":true,"preco_prime":0,"link_descricao":"/produto/155614/ssd-externo-adata-sc685-500gb-usb-3-2-tipo-c-resistente-choque-preto-asc685-500gu32g2-cbk","is_openbox":false,"oferta":{"oferta_desconto":21,"quantidade":12,"data_inicio":1624888980,"logar":0,"codigo":"62eed37317fb29a62a51e24fc7c31dceedcc771e","evento":"Upgrade PC","evento_codigo":33,"data_fim":1625137200},"codigo":155614},{"id_seller":0,"fabricante":{"nome":"Patriot","codigo":100,"img":"https://images1.kabum.com.br/produtos/fabricantes/logo-patriot.jpg"},"brinde":{"codigo":null,"img":null},"preco":1046.94,"porcentagem_desconto":15,"nome_seller":"KaBuM!","preco_desconto":889.9,"avaliacao_nota":0,"img":"https://images1.kabum.com.br/produtos/fotos/155141/ssd-patriot-vp4100-gaming-500gb-m-2-2280-pcie-gen4x4-nvme-1-3-vp4100-500gm28h_1621024207_m.jpg","preco_desconto_prime":0,"offer_id":null,"porcentagem_desconto_prime":0,"tem_frete_gratis":false,"nome":"SSD Patriot Viper VP4100 Gaming 500GB M.2 2280 PCIe Gen4X4, Leitura: 5000MB/s e Gravação: 2500MB/s - VP4100-500GM28H","marketplace":false,"avaliacao_numero":0,"frete_gratis_somente_prime":false,"alt":155141,"menu":"Hardware/SSD/M.2","preco_antigo":1265.76,"disponibilidade":true,"preco_prime":0,"link_descricao":"/produto/155141/ssd-patriot-viper-vp4100-gaming-500gb-m-2-2280-pcie-gen4x4-leitura-5000mb-s-e-grava-o-2500mb-s-vp4100-500gm28h","is_openbox":false,"oferta":{},"codigo":155141},{"id_seller":0,"fabricante":{"nome":"Crucial","codigo":1128,"img":"https://images4.kabum.com.br/produtos/fabricantes/logo-crucial.jpg"},"brinde":{"codigo":null,"img":null},"preco":517.53,"porcentagem_desconto":15,"nome_seller":"KaBuM!","preco_desconto":439.9,"avaliacao_nota":5,"img":"https://images4.kabum.com.br/produtos/fotos/115794/ssd-crucial-p2-500gb-m-2-nvme-leituras-2300mb-s-e-gravacoes-940mb-s-ct500p2ssd8_1596561355_m.jpg","preco_desconto_prime":0,"offer_id":null,"porcentagem_desconto_prime":0,"tem_frete_gratis":false,"nome":"SSD Crucial P2, 500GB, M.2 NVMe, Leituras: 2300Mb/s e Gravações: 940Mb/s - CT500P2SSD8","marketplace":false,"avaliacao_numero":5,"frete_gratis_somente_prime":false,"alt":115794,"menu":"Hardware/SSD/M.2","preco_antigo":588.12,"disponibilidade":true,"preco_prime":0,"link_descricao":"/produto/115794/ssd-crucial-p2-500gb-m-2-nvme-leituras-2300mb-s-e-grava-es-940mb-s-ct500p2ssd8","is_openbox":false,"oferta":{"oferta_desconto":12,"quantidade":37,"data_inicio":1624888980,"logar":0,"codigo":"0746e202932260c2e5ec6e9a14852b8059dd8b1a","evento":"Upgrade PC","evento_codigo":33,"data_fim":1625137200},"codigo":115794},{"id_seller":0,"fabricante":{"nome":"WD","codigo":16,"img":"https://images6.kabum.com.br/produtos/fabricantes/logo-wd.jpg"},"brinde":{"codigo":null,"img":null},"preco":705.76,"porcentagem_desconto":15,"nome_seller":"KaBuM!","preco_desconto":599.9,"avaliacao_nota":0,"img":"https://images6.kabum.com.br/produtos/fotos/108056/ssd-portatil-wd-my-passport-go-500gb-preto-e-azul-wdbmcg5000abt-wesn_ssd-portatil-wd-my-passport-go-500gb-preto-e-azul-wdbmcg5000abt-wesn_1573589772_m.jpg","preco_desconto_prime":0,"offer_id":null,"porcentagem_desconto_prime":0,"tem_frete_gratis":false,"nome":"SSD WD Externo, Portátil, My Passport Go, 500GB, Preto e Azul - WDBMCG5000ABT-WESN","marketplace":false,"avaliacao_numero":0,"frete_gratis_somente_prime":false,"alt":108056,"menu":"Hardware/SSD/Externo","preco_antigo":776.35,"disponibilidade":true,"preco_prime":0,"link_descricao":"/produto/108056/ssd-wd-externo-port-til-my-passport-go-500gb-preto-e-azul-wdbmcg5000abt-wesn","is_openbox":false,"oferta":{},"codigo":108056},{"id_seller":2210,"fabricante":{"nome":"Kingston","codigo":50,"img":"https://images7.kabum.com.br/produtos/fabricantes/logo-kingston.jpg"},"brinde":{"codigo":null,"img":null},"preco":766.56,"porcentagem_desconto":0,"nome_seller":"Bits & Bytes","preco_desconto":766.56,"avaliacao_nota":0,"img":"https://images7.kabum.com.br/produtos/fotos/sync_mirakl/170597/Ssd-Pcie-Desktop-Notebook-Kingston-Sa2000m8-500g-A2000-500gb-M-2-2280-Pcie-Nvme-Ger-3-0-X4_1624460855_m.jpg","preco_desconto_prime":0,"offer_id":44450,"porcentagem_desconto_prime":0,"tem_frete_gratis":false,"nome":"Ssd Pcie Desktop Notebook Kingston Sa2000m8/500g A2000 500gb M.2 2280 Pcie Nvme Ger 3.0 X4","marketplace":true,"avaliacao_numero":0,"frete_gratis_somente_prime":false,"alt":170597,"menu":"Hardware/SATA/SSD/500 GB","preco_antigo":0,"disponibilidade":true,"preco_prime":0,"link_descricao":"/produto/170597/ssd-pcie-desktop-notebook-kingston-sa2000m8-500g-a2000-500gb-m-2-2280-pcie-nvme-ger-3-0-x4","is_openbox":false,"oferta":{},"codigo":170597},{"id_seller":0,"fabricante":{"nome":"WD_Black","codigo":2518,"img":"https://images7.kabum.com.br/produtos/fabricantes/logo-wd_black.jpg"},"brinde":{"codigo":null,"img":null},"preco":1270.47,"porcentagem_desconto":15,"nome_seller":"KaBuM!","preco_desconto":1079.9,"avaliacao_nota":5,"img":"https://images7.kabum.com.br/produtos/fotos/129777/ssd-wd-black-sn850-500gb-pcie-nvme-leituras-7000mb-s-e-gravacoes-5300mb-s-wds500g1x0e_1611763082_m.jpg","preco_desconto_prime":0,"offer_id":null,"porcentagem_desconto_prime":0,"tem_frete_gratis":false,"nome":"SSD WD Black SN850, 500GB, PCIe, NVMe, Leituras: 7000MB/s e Gravações: 4100MB/s - WDS500G1X0E","marketplace":false,"avaliacao_numero":1,"frete_gratis_somente_prime":false,"alt":129777,"menu":"Hardware/SSD/PCI-Express","preco_antigo":1646.94,"disponibilidade":true,"preco_prime":0,"link_descricao":"/produto/129777/ssd-wd-black-sn850-500gb-pcie-nvme-leituras-7000mb-s-e-grava-es-4100mb-s-wds500g1x0e","is_openbox":false,"oferta":{"oferta_desconto":22,"quantidade":30,"data_inicio":1624888980,"logar":0,"codigo":"03c7a1eb0856216ffabc93c620d60b6194019c5a","evento":"Upgrade PC","evento_codigo":33,"data_fim":1625137200},"codigo":129777},{"id_seller":2420,"fabricante":{"nome":"NEXTPC","codigo":3233,"img":"https://images5.kabum.com.br/produtos/fabricantes/logo-nulo.jpg"},"brinde":{"codigo":null,"img":null},"preco":1855,"porcentagem_desconto":0,"nome_seller":"3D COMERCIO DE INFORMATICA","preco_desconto":1855,"avaliacao_nota":0,"img":"https://images5.kabum.com.br/produtos/fotos/sync_mirakl/153795/Computador-NextPC-com-Processador-Intel-Core-i5-8GB-DDR3-SSD-120GB-HD-500GB_1618672874_m.jpg","preco_desconto_prime":0,"offer_id":23280,"porcentagem_desconto_prime":0,"tem_frete_gratis":false,"nome":"Computador NextPC com Processador Intel Core i5, 8GB DDR3, SSD 120GB, HD 500GB","marketplace":true,"avaliacao_numero":0,"frete_gratis_somente_prime":false,"alt":153795,"menu":"Computadores/Computadores/Intel Core I5","preco_antigo":0,"disponibilidade":true,"preco_prime":0,"link_descricao":"/produto/153795/computador-nextpc-com-processador-intel-core-i5-8gb-ddr3-ssd-120gb-hd-500gb","is_openbox":false,"oferta":{},"codigo":153795},{"id_seller":2420,"fabricante":{"nome":"NEXTPC","codigo":3233,"img":"https://images6.kabum.com.br/produtos/fabricantes/logo-nulo.jpg"},"brinde":{"codigo":null,"img":null},"preco":1980,"porcentagem_desconto":0,"nome_seller":"3D COMERCIO DE INFORMATICA","preco_desconto":1980,"avaliacao_nota":0,"img":"https://images6.kabum.com.br/produtos/fotos/sync_mirakl/153796/Computador-NextPC-com-Processador-Intel-Core-i5-8GB-DDR3-SSD-240GB-HD-500GB_1618672875_m.jpg","preco_desconto_prime":0,"offer_id":23283,"porcentagem_desconto_prime":0,"tem_frete_gratis":false,"nome":"Computador NextPC com Processador Intel Core i5, 8GB DDR3, SSD 240GB, HD 500GB","marketplace":true,"avaliacao_numero":0,"frete_gratis_somente_prime":false,"alt":153796,"menu":"Computadores/Computadores/Intel Core I5","preco_antigo":0,"disponibilidade":true,"preco_prime":0,"link_descricao":"/produto/153796/computador-nextpc-com-processador-intel-core-i5-8gb-ddr3-ssd-240gb-hd-500gb","is_openbox":false,"oferta":{},"codigo":153796},{"id_seller":0,"fabricante":{"nome":"Lexar","codigo":147,"img":"https://images4.kabum.com.br/produtos/fabricantes/logo-lexar.jpg"},"brinde":{"codigo":null,"img":null},"preco":505.76,"porcentagem_desconto":15,"nome_seller":"KaBuM!","preco_desconto":429.9,"avaliacao_nota":0,"img":"https://images4.kabum.com.br/produtos/fotos/158794/ssd-lexar-lnm610-500gb-nvme-m-2-2280-leitura-2100mb-s-e-gravacao-1600mb-s-lnm610-500rb_1624029828_m.jpg","preco_desconto_prime":0,"offer_id":null,"porcentagem_desconto_prime":0,"tem_frete_gratis":false,"nome":"SSD Lexar LNM610 500GB, NVMe M.2 2280, Leitura: 2100MB/s e Gravação: 1600MB/s - LNM610-500RB","marketplace":false,"avaliacao_numero":0,"frete_gratis_somente_prime":false,"alt":158794,"menu":"Hardware/SSD/M.2","preco_antigo":738.71,"disponibilidade":true,"preco_prime":0,"link_descricao":"/produto/158794/ssd-lexar-lnm610-500gb-nvme-m-2-2280-leitura-2100mb-s-e-grava-o-1600mb-s-lnm610-500rb","is_openbox":false,"oferta":{"oferta_desconto":31,"quantidade":100,"data_inicio":1624888980,"logar":0,"codigo":"ef2a2c9fd1c448174db07e46d9e5409fa201dcea","evento":"Upgrade PC","evento_codigo":33,"data_fim":1625137200},"codigo":158794},{"id_seller":2381,"fabricante":{"nome":"Intel","codigo":6,"img":"https://images4.kabum.com.br/produtos/fabricantes/logo-intel.jpg"},"brinde":{"codigo":null,"img":null},"preco":4533.99,"porcentagem_desconto":0,"nome_seller":"WORK SHOP SOLUÇÕES EM INFORMÁTICA","preco_desconto":4533.99,"avaliacao_nota":0,"img":"https://images4.kabum.com.br/produtos/fotos/sync_mirakl/159464/Computador-Gamer-Completo-i5-8GB-SSD-120GB-HD-500GB-Placa-De-V-deo_1620751750_m.jpg","preco_desconto_prime":0,"offer_id":31392,"porcentagem_desconto_prime":0,"tem_frete_gratis":false,"nome":"Computador Gamer Completo, i5, 8GB, SSD 120GB, HD 500GB, Placa De Vídeo","marketplace":true,"avaliacao_numero":0,"frete_gratis_somente_prime":false,"alt":159464,"menu":"Computadores/Computadores/Intel Core I5","preco_antigo":0,"disponibilidade":true,"preco_prime":0,"link_descricao":"/produto/159464/computador-gamer-completo-i5-8gb-ssd-120gb-hd-500gb-placa-de-v-deo","is_openbox":false,"oferta":{},"codigo":159464},{"id_seller":2332,"fabricante":{"nome":"Sandisk","codigo":82,"img":"https://images8.kabum.com.br/produtos/fabricantes/logo-sandisk.jpg"},"brinde":{"codigo":null,"img":null},"preco":1099,"porcentagem_desconto":0,"nome_seller":"Meu Dome","preco_desconto":1099,"avaliacao_nota":0,"img":"https://images8.kabum.com.br/produtos/fotos/sync_mirakl/162498/SSD-500GB-Sandisk-Extreme_1621620196_m.jpg","preco_desconto_prime":0,"offer_id":36607,"porcentagem_desconto_prime":0,"tem_frete_gratis":false,"nome":"SSD 500GB Sandisk Extreme","marketplace":true,"avaliacao_numero":0,"frete_gratis_somente_prime":false,"alt":162498,"menu":"Hardware/SSD/Externo","preco_antigo":0,"disponibilidade":true,"preco_prime":0,"link_descricao":"/produto/162498/ssd-500gb-sandisk-extreme","is_openbox":false,"oferta":{},"codigo":162498},{"id_seller":2439,"fabricante":{"nome":"Fácil Computadores","codigo":3361,"img":"https://images7.kabum.com.br/produtos/fabricantes/logo-nulo.jpg"},"brinde":{"codigo":null,"img":null},"preco":2699,"porcentagem_desconto":0,"nome_seller":"INFO2","preco_desconto":2699,"avaliacao_nota":0,"img":"https://images7.kabum.com.br/produtos/fotos/sync_mirakl/162437/Pc-Gamer-F-cil-Intel-Core-I3-10100f-10-Gera-o-8gb-Ddr4-Gt-710-2gb-Ssd-120-Hd-500gb_1623099076_m.jpg","preco_desconto_prime":0,"offer_id":34115,"porcentagem_desconto_prime":0,"tem_frete_gratis":false,"nome":"Pc Gamer Fácil Intel Core I3 10100f, 10ª Geração, 8gb, Ddr4, Gt 710, 2gb, Ssd 120 + Hd 500gb","marketplace":true,"avaliacao_numero":0,"frete_gratis_somente_prime":false,"alt":162437,"menu":"Computadores/Computadores Gamers/Com Processador Intel","preco_antigo":0,"disponibilidade":true,"preco_prime":0,"link_descricao":"/produto/162437/pc-gamer-f-cil-intel-core-i3-10100f-10-gera-o-8gb-ddr4-gt-710-2gb-ssd-120-hd-500gb","is_openbox":false,"oferta":{},"codigo":162437},{"id_seller":2210,"fabricante":{"nome":"Skul","codigo":2529,"img":"https://images2.kabum.com.br/produtos/fabricantes/logo-skul.jpg"},"brinde":{"codigo":null,"img":null},"preco":2648.16,"porcentagem_desconto":0,"nome_seller":"Bits & Bytes","preco_desconto":2648.16,"avaliacao_nota":0,"img":"https://images2.kabum.com.br/produtos/fotos/sync_mirakl/164942/Computador-Business-B300-I3-4130-3-4ghz-8gb-Ddr3-Ssd-120gb-Hd-500gb-Hdmi-vga-Fonte-250w_1622826428_m.jpg","preco_desconto_prime":0,"offer_id":37373,"porcentagem_desconto_prime":0,"tem_frete_gratis":false,"nome":"Computador Business B300 - I3 4130 3.4ghz 8gb Ddr3 Ssd 120gb Hd 500gb Hdmi/vga Fonte 250w","marketplace":true,"avaliacao_numero":0,"frete_gratis_somente_prime":false,"alt":164942,"menu":"Computadores/Computadores/Intel Core I3","preco_antigo":0,"disponibilidade":true,"preco_prime":0,"link_descricao":"/produto/164942/computador-business-b300-i3-4130-3-4ghz-8gb-ddr3-ssd-120gb-hd-500gb-hdmi-vga-fonte-250w","is_openbox":false,"oferta":{},"codigo":164942},{"id_seller":2370,"fabricante":{"nome":"AMORIM SHOP","codigo":3698,"img":"https://images2.kabum.com.br/produtos/fabricantes/logo-nulo.jpg"},"brinde":{"codigo":null,"img":null},"preco":5099,"porcentagem_desconto":0,"nome_seller":"AMORIM SHOP","preco_desconto":5099,"avaliacao_nota":0,"img":"https://images2.kabum.com.br/produtos/fotos/sync_mirakl/166592/Pc-Gamer-Completo-I5-Ssd120gb-Hd500gb-Rx550-8gb-Fonte-500w_1623435552_m.jpg","preco_desconto_prime":0,"offer_id":40512,"porcentagem_desconto_prime":0,"tem_frete_gratis":false,"nome":"Pc Gamer Completo I5 Ssd120gb Hd500gb Rx550 8gb Fonte 500w","marketplace":true,"avaliacao_numero":0,"frete_gratis_somente_prime":false,"alt":166592,"menu":"Computadores/Computadores Gamers/Com Processador Intel","preco_antigo":0,"disponibilidade":true,"preco_prime":0,"link_descricao":"/produto/166592/pc-gamer-completo-i5-ssd120gb-hd500gb-rx550-8gb-fonte-500w","is_openbox":false,"oferta":{},"codigo":166592},{"id_seller":2210,"fabricante":{"nome":"Seagate","codigo":10,"img":"https://images1.kabum.com.br/produtos/fabricantes/logo-seagate.jpg"},"brinde":{"codigo":null,"img":null},"preco":1379.66,"porcentagem_desconto":0,"nome_seller":"Bits & Bytes","preco_desconto":1379.66,"avaliacao_nota":0,"img":"https://images1.kabum.com.br/produtos/fotos/sync_mirakl/170421/Ssd-Seagate-Zp500gm3a001-Firecuda-500gb-M-2-Pcie-Nvme_1624453686_m.jpg","preco_desconto_prime":0,"offer_id":46741,"porcentagem_desconto_prime":0,"tem_frete_gratis":false,"nome":"Ssd Seagate Zp500gm3a001 Firecuda 500gb M.2 Pcie Nvme","marketplace":true,"avaliacao_numero":0,"frete_gratis_somente_prime":false,"alt":170421,"menu":"Hardware/SATA/SSD/500 GB","preco_antigo":0,"disponibilidade":true,"preco_prime":0,"link_descricao":"/produto/170421/ssd-seagate-zp500gm3a001-firecuda-500gb-m-2-pcie-nvme","is_openbox":false,"oferta":{},"codigo":170421}]
+        const listagemErro = {"erro":0,"statusCode":""}
+        const listagemCount = 88
+        const listagemFiltro = {"marcas":[{"nome_fabricante":"3GREEN","codigo":2792},{"nome_fabricante":"Adata","codigo":171},{"nome_fabricante":"AMORIM SHOP","codigo":3698},{"nome_fabricante":"Aorus","codigo":2350},{"nome_fabricante":"Concórdia Informática","codigo":2783},{"nome_fabricante":"Corsair","codigo":36},{"nome_fabricante":"Crucial","codigo":1128},{"nome_fabricante":"Fácil Computadores","codigo":3361},{"nome_fabricante":"Hp","codigo":40},{"nome_fabricante":"Intel","codigo":6},{"nome_fabricante":"Kingston","codigo":50},{"nome_fabricante":"Lacie","codigo":204},{"nome_fabricante":"Lexar","codigo":147},{"nome_fabricante":"NEXTPC","codigo":3233},{"nome_fabricante":"Patriot","codigo":100},{"nome_fabricante":"Pny","codigo":324},{"nome_fabricante":"Samsung","codigo":12},{"nome_fabricante":"Sandisk","codigo":82},{"nome_fabricante":"Seagate","codigo":10},{"nome_fabricante":"SKILL","codigo":2745},{"nome_fabricante":"Skul","codigo":2529},{"nome_fabricante":"WD","codigo":16},{"nome_fabricante":"WD_Black","codigo":2518},{"nome_fabricante":"XPG","codigo":2430}],"valor_minimo":505.76,"valor_maximo":5578.84}
+        const listagemBreadcrumb = []
+        const listagemFaqsSEO = []
+        const listagemConteudosSEO = []
+        const verificaPrime = '0'
+        const kabumCgiUrl = 'https://www.kabum.com.br/cgi-local'
+        const kabumUrl = 'https://www.kabum.com.br'
+        const endpoint = 'https://servicespub.prod.api.aws.grupokabum.com.br'
+        const staticKabumUrl = 'https://static.kabum.com.br'
+        const COOKIEDOMAIN = '.kabum.com.br'
+        const COOKIEPATH = '/'
+    </script>
+    <script charset='utf-8' src='https://static.kabum.com.br/conteudo/min/js/bundle_listagem.min.js'></script>
+
+      <script src='https://static.kabum.com.br/conteudo/scripts/blockadblock.js'></script>
+      <script>
+        window.onload = function() {
+          const checkedAdBlock = sessionStorage.getItem('checkedAdBlock');
+
+          function adBlockDetected() {
+            document.cookie = `hasAdBlock=true; expires=Sun, 1 Jan 9999 00:00:00 UTC; path=/`;
+          }
+
+          function adBlockNotDetected() {
+            document.cookie = `hasAdBlock=false; expires=Sun, 1 Jan 9999 00:00:00 UTC; path=/`;
+          }
+
+          if(!checkedAdBlock){
+            blockAdBlock.setOption({
+              loopCheckTime: 2,
+              loopMaxNumber: 1
+            });
+
+            if(typeof blockAdBlock === 'undefined') {
+              adBlockDetected();
+            } else {
+              blockAdBlock.onDetected(adBlockDetected);
+              blockAdBlock.onNotDetected(adBlockNotDetected);
+            }
+
+            sessionStorage.setItem('checkedAdBlock', true);
+          }
+        }
+      </script>
+    <script src="//cdn.pn.vg/sites/7f2d1b38-9526-4c0b-9c7d-cd72d4ff3064.js" async></script>
+        
+    <!-- Scripts -->
+    <script type="text/javascript" src="https://static.kabum.com.br/conteudo/scripts/cookie.js"></script>
+    <!-- Sess Ctrl -->
+    <script type="text/javascript">
+        var req = new XMLHttpRequest();
+        req.open('GET', 'https://www.kabum.com.br/time.stamp', false);
+        req.send(null);
+        var the_time = req.getResponseHeader("X-TIME");
+        var cookies = get_cookies();
+        //if (cookies['session'] === undefined || cookies['session'] == '' || cookies['tmp_hash'] === undefined || cookies['tmp_hash'] == '' || (the_time - cookies['last']) >= (8*59) ) {
+        if (cookies['session'] === undefined || cookies['session'] == '' || (the_time - cookies['last']) >= (24*60*60) ) {
+            $.ajax({
+                url:  "https://www.kabum.com.br/cgi-local/site/behavior/session.cgi?last=1624911093",
+                data: '',
+                type: 'GET',
+                contentType: 'charset=utf-8',
+            });
+        }
+    </script>
+    <!-- Scripts -->
+    <script type="text/javascript" src="https://static.kabum.com.br/conteudo/scripts/slick.min.js"></script>
+    <script type="text/javascript" src="https://static.kabum.com.br/conteudo/scripts/ajax_login_carrinho.js"></script>
+    <!-- Site Blindado -->
+    <script type="text/javascript" src="//cdn.siteblindado.com/aw.js"></script>
+    <script type="text/javascript">
+          // Function getquerystring
+          function getquerystring() {
+              var form  = document.forms['busca'];
+              var campo = form.string.value;
+              qstr = 'string=' + escape(campo);
+              return qstr;
+          }
+          // Function updatepage
+          function updatepage(str, lugar){
+              document.getElementById(lugar).innerHTML = str;
+          }
+
+          $(".ec-internal-promotion").click(function(e){
+            const href = $(this).attr('href');
+            let url;
+
+            try {
+              url = new URL(href);
+            } catch (e){
+              url = undefined;
+            }
+           
+            if (!url) {
+              return;
+            }
+
+            try {
+              e.preventDefault();
+              
+              const linkParams = new URLSearchParams(url.search);
+            
+              const reg = / /mgi;
+
+              const ID_BANNER = linkParams.get('int_banner_name');
+              const NAME_BANNER = linkParams.get('int_banner_name');
+              const POS_BANNER = linkParams.get('int_banner_position');
+              
+              console.log(ID_BANNER);
+              console.log(NAME_BANNER);
+              console.log(POS_BANNER);
+              
+              if (NAME_BANNER && POS_BANNER) {
+                dataLayer.push({
+                  'event': 'promotionClick',
+                  'ecommerce': {
+                    'promoClick': {
+                      'promotions': [
+                        {
+                          'id': ID_BANNER.replace(reg, ''),
+                          'name': NAME_BANNER,
+                          'creative': NAME_BANNER,
+                          'position': POS_BANNER
+                        }
+                      ]
+                    }
+                  }
+                });
+              }
+
+              window.location.href = url;
+
+            } catch (error) {
+              console.error(error);
+              window.location.href = url;
+            }
+          });
+
+          // ============ JQuery Ready =========
+          $(document).ready(function() {
+              // $("#ctn-relampago").addClass("relampago-hide");
+              $("#form-busca").submit(function() {
+                  if ($("input:text").val() == '') {
+                      return false;
+                  }
+                  return true;
+              });
+              var validate = function(valor) {
+                if (valor !== 'Insira o código fácil' && valor !== '') {
+                    jQuery.post("https://www.kabum.com.br/cgi-local/site/produtos/validate_codigo.cgi", {buscar : valor}, function(data) { }, "json" )
+                        .success(function(data) {
+                            if (data.validate === 1) {
+                                document.location = "https://www.kabum.com.br/produto/"+valor+'/'+data.url;
+                                return;
+                            }
+                            alert("O código digitado não é válido.");
+                        });
+                    return;
+                }
+                alert("Por favor, digite um código");
+                return;
+              };
+              $("#btn-form-busca-codigo").click(function(){
+                  var codigo = jQuery("#input-codigo-busca").val();
+                  validate(codigo);
+              });
+              $("#input-codigo-busca").keypress(function(e) {
+                  if(e.which == 13) {
+                      var codigo = jQuery("#input-codigo-busca").val();
+                      validate(codigo);
+                  }
+                  if((e.which > 47 && e.which < 58) || e.which == 8 || e.which == 9 || e.which == 0) { return true }
+                  return false;
+              });
+          });
+    </script>
+    <script async="true">
+      _etmc.push(["setOrgId", "110004422"]);
+      _etmc.push(["trackPageView"]);
+    </script>
+    <script type="text/javascript" src="https://static.kabum.com.br/datadome.js"></script>
+    
+  
+        <script defer="defer" src="https://www.dwin1.com/17729.js" type="text/javascript"></script>
+
+        </body>
+        </html>
+    
+    
+<!-- Criteo Category / Listing dataLayer -->
+<script type="text/javascript">
+    var dataLayer = dataLayer || []
+</script> 
+<!-- END Criteo Category / Listing dataLayer -->
