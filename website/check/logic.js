@@ -24,11 +24,11 @@ function createauth() {
 
     let options = {
         publicKey: {
-            rp: { name: "example.com" },
+            rp: { name: "aldenameki.github.io" },
             user: {
-                name: "john@example.com",
+                name: "aldenameki@gmail.com",
                 id: userIdBuffer,
-                displayName: "John"
+                displayName: "Aldenameki"
             },
             pubKeyCredParams: [ { type: "public-key", alg: -7 } ],
             challenge: challengeBuffer,
