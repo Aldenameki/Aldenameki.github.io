@@ -1,4 +1,5 @@
 const authAvailable = PublicKeyCredential.isUserVerifyingPlatformAuthenticatorAvailable();
+var credId;
 
 function start() {
     if(!authAvailable) {
@@ -50,6 +51,7 @@ function createauth() {
             let response = cred.response;
             
             showData('@ ' + id + " - " + type);
+            credId = id;
         });
 }
 
@@ -61,7 +63,7 @@ function loginauth() {
             challenge: challengeBuffer,
             allowCredentials: [{
                 type: "public-key",
-                id: credentialIdBuffer,
+                id: credId,//credentialIdBuffer,
                 transports: ["internal"]
             }]
         }
