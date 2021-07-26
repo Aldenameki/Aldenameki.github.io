@@ -1,0 +1,25 @@
+body {
+    height: 95vh;
+    width: 95vw;
+}
+
+button {
+    margin: 5px;
+    width: 70%;
+    font-size: 3em;
+    font-weight: bold;
+    background: lightsalmon;
+}
+
+button:hover {
+    background: rgb(252, 148, 107);
+}
+
+#data {
+    border: 1px solid black;
+}
+
+#data * {
+    border-bottom: 1px solid gainsboro;
+    font-size: 2em;
+}

@@ -15,7 +15,6 @@ function start() {
 }
 
 function createauth() {
-    console.log("ase");
     let userIdBuffer = new Uint8Array(16);
     let challengeBuffer = new Uint8Array([
         0x8C, 0x0A, 0x26, 0xFF, 0x22, 0x91, 0xC1, 0xE9, 0xB9, 0x4E, 0x2E, 0x17, 0x1A, 0x98, 0x6A, 0x73,
@@ -37,7 +36,15 @@ function createauth() {
         }
     };
 
-    var publicKeyCredential = navigator.credentials.create(options);
+    var publicKeyCredential = navigator.credentials
+        .create(options)
+        .then((cred) => {
+            let id = cred.id;
+            let type = cred.type;
+            let response = cred.response;
+            
+            showData('@ ' + id + " - " + type);
+        });
 }
 
 function loginauth() {
@@ -52,5 +59,20 @@ function loginauth() {
         }
     };
 
-    var publicKeyCredential = navigator.credentials.get(options);
+    var publicKeyCredential = navigator.credentials
+        .get(options)
+        .then((cred) => {
+            let id = cred.id;
+            let type = cred.type;
+            let response = cred.response;
+            
+            showData(id + " - " + type);
+        });
+}
+
+function showData(text) {
+    let data = document.getElementById("data");
+    let div = document.createElement("div");
+    div.innerText = text;
+    data.appendChild(div);
 }
