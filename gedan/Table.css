@@ -1,8 +1,31 @@
+html {
+    height: 100vh;
+    width: 100vw;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.holder {
+    width: fit-content;
+    height: fit-content;
+}
+
 .box {
     border: 1px solid chocolate;
     background: rgb(248, 203, 170);
     margin: 10px;
     padding: 5px;
+}
+
+.txt {
+    margin: 6px;
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
 }
 
 .box h3 {

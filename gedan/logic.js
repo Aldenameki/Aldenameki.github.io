@@ -17,7 +17,7 @@ function start() {
 
     table = new Table("t1");
     table.build();
-    table.append(document.body);
+    table.append(document.getElementById("holder"));
 
     let column = document.getElementById("choosecolumn");
     column.addEventListener('change', (e) => {setColumn(e);});

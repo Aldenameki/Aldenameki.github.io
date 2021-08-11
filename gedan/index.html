@@ -10,18 +10,20 @@
         <link rel="stylesheet" href="Table.css">
     </head>
     <body onload="start()">
-        <h3 style="margin: 6px; font-family: Arial; font-weight: bold;">Siga a seguinte ordem</h3>
-        <div class="box">
-            <h3>Selecione todas as imagens dos produtos</h3>
-            <input type="file" id="chooseimage" accept=".png, .jpg" multiple="multiple">
-        </div>
-        <div class="box">
-            <h3>Escreva o nome da coluna com os nomes das fotos</h3>
-            <input type="text" id="choosecolumn">
-        </div>
-        <div class="box">
-            <h3>Selecione o arquivo Excel</h3>
-            <input type="file" id="choosefile" accept=".xls, .xlsx">
+        <div id="holder" class="holder">
+            <h3 class="txt">Siga a seguinte ordem</h3>
+            <div class="box">
+                <h3>Selecione todas as imagens dos produtos</h3>
+                <input type="file" id="chooseimage" accept=".png, .jpg" multiple="multiple">
+            </div>
+            <div class="box">
+                <h3>Escreva o nome da coluna com os nomes das fotos</h3>
+                <input type="text" id="choosecolumn">
+            </div>
+            <div class="box">
+                <h3>Selecione o arquivo Excel</h3>
+                <input type="file" id="choosefile" accept=".xls, .xlsx">
+            </div>
         </div>
     </body>
 </html>
