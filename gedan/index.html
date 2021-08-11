@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Excel reader</title>
+        <script lang="javascript" src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.0/xlsx.core.min.js"></script>
+        <script type="text/javascript" src="Table.js"></script>
+        <script type="text/javascript" src="Picker.js"></script>
+        <script type="text/javascript" src="logic.js"></script>
+        <link rel="stylesheet" href="Table.css">
+    </head>
+    <body onload="start()">
+        <h3 style="margin: 6px; font-family: Arial; font-weight: bold;">Siga a seguinte ordem</h3>
+        <div class="box">
+            <h3>Selecione todas as imagens dos produtos</h3>
+            <input type="file" id="chooseimage" accept=".png, .jpg" multiple="multiple">
+        </div>
+        <div class="box">
+            <h3>Escreva o nome da coluna com os nomes das fotos</h3>
+            <input type="text" id="choosecolumn">
+        </div>
+        <div class="box">
+            <h3>Selecione o arquivo Excel</h3>
+            <input type="file" id="choosefile" accept=".xls, .xlsx">
+        </div>
+    </body>
+</html>
