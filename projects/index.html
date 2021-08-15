@@ -1,36 +1,76 @@
+<!DOCTYPE html>
 <html>
     <head>
-      <title>Calculator</title>
+        <meta charset="UTF-8">
+        <title>Calculator</title>
+        <style>
+            body {
+                background: rgb(255, 219, 219);
+                display: table;
+                margin: 0 auto;
+                padding: 0;
+            }
+            div {
+                border: 1px solid rgba(0, 0, 0, 0.418);
+                border-radius: 15px;
+                background: rgb(255, 255, 255);
+                padding: 8px;
+                margin-top: 10px;
+            }
+            h1 {
+                font-family: Arial;
+                margin: 0;
+            }
+            button {
+                background: rgb(172, 9, 9);
+                font-family: Arial;
+                font-weight: bold;
+                font-size: large;
+                color: rgb(255, 255, 255);
+                padding: 5px;
+                cursor: pointer;
+                display: table;
+                margin: 0 auto;
+                margin-top: 5px;
+            }
+            button:hover {
+                background: rgb(119, 37, 196);
+            }
+        </style>
     </head>
-  
     <body>
-      <h1>My Projects</h1>
-      <form method="get" action="/projects/calculator">
-        <button type="submit">Calculator</button>
-      </form>
-      <form method="get" action="/projects/MoveSquare">
-        <button type="submit">Move Square</button>
-      </form>
-      <form method="get" action="/projects/Animation1">
-        <button type="submit">Animation1</button>
-      </form>
-      <form method="get" action="/projects/Calculadora Flutter">
-        <button type="submit">Calculadora Flutter</button>
-      </form>
-      <form method="get" action="/projects/CampoMinado">
-        <button type="submit">Campo Minado</button>
-      </form>
-      <form method="get" action="/projects/RoboticArm">
-        <button type="submit">Braço Robótico 2D</button>
-      </form>
-      <form method="get" action="/projects/Instagram">
-        <button type="submit">Instaclone</button>
-      </form>
-      <form method="get" action="/projects/SnakeGame">
-        <button type="submit">Jogo da Cobra</button>
-      </form>
-      <form method="get" action="/projects/cssdesign1">
-        <button type="submit">Design CSS</button>
-      </form>
+        <div>
+            <h1>Meus projetos</h1>
+            <form action="/projects/calculator">
+                <button type="submit">Calculator</button>
+            </form>
+            <form action="/projects/MoveSquare">
+                <button type="submit">Move Square</button>
+            </form>
+            <form action="/projects/Animation1">
+                <button type="submit">Animation1</button>
+            </form>
+            <form action="/projects/Calculadora Flutter">
+                <button type="submit">Calculadora Flutter</button>
+            </form>
+            <form action="/projects/CampoMinado">
+                <button type="submit">Campo Minado</button>
+            </form>
+            <form action="/projects/RoboticArm">
+                <button type="submit">Braço Robótico 2D</button>
+            </form>
+            <form action="/projects/Instagram">
+                <button type="submit">Instaclone</button>
+            </form>
+            <form action="/projects/SnakeGame">
+                <button type="submit">Jogo da Cobra</button>
+            </form>
+            <form action="/projects/cssdesign1">
+                <button type="submit">Design CSS</button>
+            </form>
+            <form action="/projects/Charts1">
+                <button type="submit">Gráficos</button>
+            </form>
+        </div>
     </body>
 </html>
