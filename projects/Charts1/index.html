@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Charts</title>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.5.0/chart.js"></script>
+        <script type="text/javascript" src="logic.js"></script>
+        <style>
+            body {
+                background: rgb(221, 212, 255);
+                display: table;
+                margin: 0 auto;
+                text-align: center;
+            }
+            h3 {
+                font-family: Arial;
+                margin: 0;
+                margin-top: 10px;
+            }
+            div {
+                height: 400px;
+                width: 400px;
+                margin-top: 10px;
+            }
+            canvas {
+                background: white;
+                height: 100%;
+                width: 100%;
+                border: 1px solid black;
+                padding: 5px;
+            }
+        </style>
+    </head>
+    <body onload="start()">
+        <h3>Gráficos</h3>
+        <div>
+            <canvas id="canvas1" style="height: 100%;"></canvas>
+        </div>
+        <div>
+            <canvas id="canvas2" style="height: 100%"></canvas>
+        </div>
+    </body>
+</html>
