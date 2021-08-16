@@ -4,6 +4,7 @@
         <meta charset="UTF-8">
         <title>Excel reader</title>
         <script lang="javascript" src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.0/xlsx.core.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.5.0/chart.js"></script>
         <script type="text/javascript" src="Table.js"></script>
         <script type="text/javascript" src="Picker.js"></script>
         <script type="text/javascript" src="logic.js"></script>
@@ -23,6 +24,21 @@
             <div class="box">
                 <h3>Selecione o arquivo Excel</h3>
                 <input type="file" id="choosefile" accept=".xls, .xlsx">
+            </div>
+            <div class="box">
+                <h3>Gerar gráfico</h3>
+                <div>
+                    <label for="graphtype">Tipo de gráfico:</label>
+                    <select id="graphtype"></select>
+                    <label for="graphyaxis">Eixo Y:</label>
+                    <select id="graphyaxis"></select>
+                    <label for="graphxaxis">Eixo X:</label>
+                    <select id="graphxaxis"></select>
+                    <button id="graphgen">Gerar</button>
+                </div>
+            </div>
+            <div id="g1" class="graph">
+                <canvas id="c1" class="canvas" style="height: 100%; width: 100%;">Graph</canvas>
             </div>
         </div>
     </body>

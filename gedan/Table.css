@@ -79,3 +79,29 @@ body {
 .Timage:hover {
     height: 300px;
 }
+
+label {
+    font-family: Arial;
+}
+
+button {
+    font-family: Arial;
+    font-weight: bold;
+    background: #ff7171;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+button:hover {
+    background: #ff5c5c;
+}
+
+.graph {
+    display: none;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.canvas {
+
+}

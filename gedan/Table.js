@@ -22,6 +22,15 @@ class Table {
         return null;
     }
 
+    colData(colIndex) {
+        let data = [];
+
+        for(let i=0; i<this.rows(); i++)
+            data.push(this.row[i].data[colIndex]);
+
+        return data;
+    }
+
 
 
     build() {
