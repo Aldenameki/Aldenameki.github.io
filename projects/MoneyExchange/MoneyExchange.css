@@ -1,0 +1,59 @@
+body {
+
+}
+
+#content {
+    width: fit-content;
+    margin: 0 auto;
+}
+
+#setting {
+    width: fit-content;
+    margin: 10px auto;
+    padding: 5px;
+    background: rgb(179, 202, 245);
+    border: 1px solid black;
+    font-family: Arial;
+}
+
+.MONEYcontainer {
+    display: flex;
+}
+
+.MONEYcurrency {
+    width: fit-content;
+    min-width: 100px;
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.322);
+    background-image: url('nota.jpg');
+    background-blend-mode: hard-light;
+    background-color: rgb(192, 192, 192);
+    background-size: 100% 100%;
+}
+
+.MONEY200 {background-color: sienna;}
+.MONEY100 {background-color: rgb(84, 70, 206);}
+.MONEY50 {background-color: rgb(243, 127, 18);}
+.MONEY20 {background-color: rgb(253, 194, 0);}
+.MONEY10 {background-color: rgb(221, 78, 97);}
+.MONEY5 {background-color: rgb(206, 92, 187);}
+.MONEY2 {background-color: rgb(101, 145, 226);}
+
+.MONEYname {
+    margin: 0;
+    padding: 4px;
+    font-family: Arial;
+    font-weight: 800;
+    font-size: larger;
+    text-align: center;
+    text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+}
+
+.MONEYamount {
+    margin: 0;
+    padding: 2px 4px;
+    background: white;
+    font-family: Arial;
+    text-align: center;
+}
