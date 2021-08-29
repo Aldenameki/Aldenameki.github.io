@@ -29,7 +29,7 @@ body {
 }
 
 .box h3 {
-    color: darkblue;
+    color: black;
     font-family: Arial;
     font-weight: bold;
     margin: 0;
@@ -87,7 +87,7 @@ label {
 button {
     font-family: Arial;
     font-weight: bold;
-    background: #ff7171;
+    background: white;
     cursor: pointer;
     border-radius: 8px;
 }
