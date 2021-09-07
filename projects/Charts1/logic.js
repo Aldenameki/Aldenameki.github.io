@@ -2,6 +2,8 @@ var canvas1;
 var canvas2;
 var data2 = {x: [], y: []};
 var data2b = {x: [], y: []};
+var myChart1;
+var myChart2;
 
 function start() {
     canvas1 = document.getElementById("canvas1");
@@ -20,7 +22,7 @@ function start() {
 
 function setchart() {
 
-    var myChart1 = new Chart(canvas1 , {
+    myChart1 = new Chart(canvas1 , {
         type: 'bar',
         data: {
             labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
@@ -56,7 +58,7 @@ function setchart() {
     });
 
 
-    var myChart2 = new Chart(canvas2 , {
+    myChart2 = new Chart(canvas2 , {
         type: 'line',
         data: {
             labels: data2.x,
