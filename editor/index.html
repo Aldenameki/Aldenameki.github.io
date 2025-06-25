@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Compactador de JPGs</title>
+  <style>
+    body { font-family: sans-serif; padding: 2rem; max-width: 800px; margin: auto; }
+    input[type="file"] { margin-bottom: 1rem; }
+    .file-block {
+      display: flex;
+      align-items: flex-start;
+      margin-bottom: 1.5rem;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 1rem;
+      gap: 1rem;
+    }
+    .thumbnail {
+      width: 100px;
+      height: 100px;
+      flex-shrink: 0;
+      overflow: hidden;
+      border: 1px solid #ddd;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #f8f8f8;
+      cursor: pointer;
+    }
+    .thumbnail img {
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: contain;
+    }
+    .file-info {
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+    }
+    textarea.rename {
+      width: 100%;
+      min-height: 4em;
+      resize: horizontal;
+      padding: 4px;
+      font-family: monospace;
+      font-size: 1em;
+      box-sizing: border-box;
+    }
+    button { margin-top: 1rem; }
+    .details {
+      flex-grow: 1;
+    }
+  </style>
+</head>
+<body>
+  <h2>Compactar Múltiplas JPGs</h2>
+  <input type="file" id="upload" accept="image/jpeg" multiple>
+  <button id="downloadAll" style="display:none">⬇️ Baixar Todas</button>
+  <div id="fileList"></div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+
+  <script>
+    const MAX_DIMENSION = 2000;
+    const MAX_SIZE = 350 * 1024;
+    const THUMB_SIZE = 100;
+
+    const upload = document.getElementById('upload');
+    const fileList = document.getElementById('fileList');
+    const downloadAll = document.getElementById('downloadAll');
+
+    const processedImages = [];
+
+    upload.addEventListener('change', async (e) => {
+      fileList.innerHTML = '';
+      processedImages.length = 0;
+
+      const files = Array.from(e.target.files);
+      if (!files.length) return;
+
+      for (let index = 0; index < files.length; index++) {
+        const file = files[index];
+        const result = await processImage(file);
+        if (!result) continue;
+
+        const { blob, defaultName, width, height, thumbURL } = result;
+        const sizeKB = (blob.size / 1024).toFixed(1);
+        const downloadURL = URL.createObjectURL(blob);
+
+        const block = document.createElement('div');
+        block.className = 'file-block';
+
+        // Miniatura clicável para download
+        const thumb = document.createElement('a');
+        thumb.className = 'thumbnail';
+        thumb.href = downloadURL;
+        thumb.download = `reduzida_${defaultName.replace(/\.jpg$/i, '')}.jpg`;
+
+        const img = document.createElement('img');
+        img.src = thumbURL;
+        thumb.appendChild(img);
+
+        const details = document.createElement('div');
+        details.className = 'details';
+
+        const label = document.createElement('div');
+        label.className = 'file-info';
+        label.textContent = `${index + 1}. ${file.name} (${width}x${height}px, ${sizeKB} KB)`;
+
+        const input = document.createElement('textarea');
+        input.className = 'rename';
+        input.value = `reduzida_${defaultName.replace(/\.jpg$/i, '')}`;
+        input.maxLength = 214
+
+        input.addEventListener('input', () => {
+          thumb.download = input.value.trim() + '.jpg';
+        });
+
+        details.appendChild(label);
+        details.appendChild(input);
+        block.appendChild(thumb);
+        block.appendChild(details);
+        fileList.appendChild(block);
+
+        processedImages.push({ blob, input });
+      }
+
+      if (processedImages.length) {
+        downloadAll.style.display = 'inline-block';
+      }
+    });
+
+    downloadAll.addEventListener('click', async () => {
+      const zip = new JSZip();
+
+      for (const { blob, input } of processedImages) {
+        const filename = input.value.trim() + '.jpg';
+        zip.file(filename, blob);
+      }
+
+      const zipBlob = await zip.generateAsync({ type: 'blob' });
+      const url = URL.createObjectURL(zipBlob);
+
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'imagens_reduzidas.zip';
+      a.click();
+    });
+
+    async function processImage(file) {
+      return new Promise((resolve) => {
+        const img = new Image();
+        const url = URL.createObjectURL(file);
+        img.onload = async () => {
+          let [newWidth, newHeight] = [img.width, img.height];
+          if (img.width > MAX_DIMENSION || img.height > MAX_DIMENSION) {
+            const scale = Math.min(MAX_DIMENSION / img.width, MAX_DIMENSION / img.height);
+            newWidth = img.width * scale;
+            newHeight = img.height * scale;
+          }
+
+          // Redimensionar imagem para compressão principal
+          const canvas = document.createElement('canvas');
+          canvas.width = newWidth;
+          canvas.height = newHeight;
+          const ctx = canvas.getContext('2d');
+          ctx.drawImage(img, 0, 0, newWidth, newHeight);
+
+          const blob = await compressToTargetSize(canvas, MAX_SIZE);
+          if (!blob) return resolve(null);
+
+          // Criar thumbnail leve (100px máx)
+          const [thumbWidth, thumbHeight] = getResizedDimensions(img.width, img.height, THUMB_SIZE);
+          const thumbCanvas = document.createElement('canvas');
+          thumbCanvas.width = thumbWidth;
+          thumbCanvas.height = thumbHeight;
+          const thumbCtx = thumbCanvas.getContext('2d');
+          thumbCtx.drawImage(img, 0, 0, thumbWidth, thumbHeight);
+          const thumbURL = thumbCanvas.toDataURL('image/jpeg', 0.5);
+
+          resolve({
+            blob,
+            defaultName: file.name,
+            width: Math.round(newWidth),
+            height: Math.round(newHeight),
+            thumbURL
+          });
+        };
+        img.onerror = () => resolve(null);
+        img.src = url;
+      });
+    }
+
+    async function compressToTargetSize(canvas, targetSize) {
+      let minQ = 0.15;
+      let maxQ = 0.95;
+      let lowerBound = 340 * 1024;
+      let bestBlob = null;
+
+      for (let i = 0; i < 20; i++) {
+        const midQ = (minQ + maxQ) / 2;
+        const blob = await getBlob(canvas, midQ);
+        if (!blob) break;
+        let blobSize = blob.size;
+
+        if (blobSize <= targetSize) {
+          bestBlob = blob;
+          minQ = midQ;
+
+          if (blobSize >= lowerBound) {
+            break;
+          }
+
+        } else {
+          maxQ = midQ;
+        }
+      }
+
+      return bestBlob;
+    }
+
+    function getBlob(canvas, quality) {
+      return new Promise((resolve) => {
+        canvas.toBlob(blob => resolve(blob), 'image/jpeg', quality);
+      });
+    }
+
+    function getResizedDimensions(width, height, maxDim) {
+      const scale = Math.min(maxDim / width, maxDim / height, 1);
+      return [Math.round(width * scale), Math.round(height * scale)];
+    }
+  </script>
+</body>
+</html>
